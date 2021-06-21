@@ -1,1 +1,2 @@
-# video-odoo-erp-bim-2.0
+# Videos de BIM
+1. Crear una Obra desde un Lead
