@@ -9,3 +9,15 @@
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
+
+# Mis datos de Contacto
+```
+Marlon Falcón Hernández | España | Madrid
+* ERP, CRM y Software: https://www.marlonfalcon.com
+» WhatsApp: +34 662 47 0645
+» Email: mfalconsoft@gmail.com , falconsof.3d@gmail.com
+» Instagram: https://www.instagram.com/ynextspa
+» Facebook: https://www.facebook.com/Ynext-1150152835134897
+» Github: https://github.com/falconsoft3d
+» linkedin: https://linkedin.com/in/marlon-falcón-3a2aa9a4
+```
