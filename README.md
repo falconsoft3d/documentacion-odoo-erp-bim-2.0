@@ -5,3 +5,4 @@
 4. Crear obra directamente en BIM: https://www.youtube.com/watch?v=Kiuz9HPPdX0
 5. Crear un almacén desde una Obra: https://www.youtube.com/watch?v=ncFU1TN2xmA
 6. Crear cuenta analítica desde una Obra: https://www.youtube.com/watch?v=vnjFourNLjI
+7. Estados de las Obras: https://www.youtube.com/watch?v=lZdMgCYumIs
