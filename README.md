@@ -9,6 +9,7 @@ Odoo para empresas de construcción.
 6. Crear cuenta analítica desde una Obra: https://www.youtube.com/watch?v=vnjFourNLjI
 7. Estados de las Obras: https://www.youtube.com/watch?v=lZdMgCYumIs
 8. Objetos y Espacios: https://www.youtube.com/watch?v=q8tPIYlJdU8
+9. Crear presupuesto al alza: https://www.youtube.com/watch?v=pO0_wO7JMD0
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
