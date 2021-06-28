@@ -14,7 +14,7 @@ Odoo para empresas de construcción.
 11. Copiar y pegar presupuestos de construcción: https://www.youtube.com/watch?v=mPx7B0CI9EA
 12. Registrar mediciones de obras: https://www.youtube.com/watch?v=9K18PQpFJ9s&t=5s
 13. Otros conceptos: https://www.youtube.com/watch?v=tcVv65atuxU
-14. Crear presupuesto desde planytilla: https://www.youtube.com/watch?v=l9AfN2apG1s
+14. Crear presupuesto desde plantilla: https://www.youtube.com/watch?v=l9AfN2apG1s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
