@@ -10,8 +10,10 @@ Odoo para empresas de construcción.
 7. Estados de las Obras: https://www.youtube.com/watch?v=lZdMgCYumIs
 8. Objetos y Espacios: https://www.youtube.com/watch?v=q8tPIYlJdU8
 9. Crear presupuesto al alza: https://www.youtube.com/watch?v=pO0_wO7JMD0
-10. Crear Capítulo, partida y recursos https://www.youtube.com/watch?v=fsZJEczqkms
-11. Copiar y pegar presupuestos de construcción https://www.youtube.com/watch?v=mPx7B0CI9EA
+10. Crear Capítulo, partida y recursos: https://www.youtube.com/watch?v=fsZJEczqkms
+11. Copiar y pegar presupuestos de construcción: https://www.youtube.com/watch?v=mPx7B0CI9EA
+12. Registrar mediciones de obras: https://www.youtube.com/watch?v=9K18PQpFJ9s&t=5s
+13. Otros conceptos: https://www.youtube.com/watch?v=tcVv65atuxU
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
