@@ -21,6 +21,7 @@ Odoo para empresas de construcción.
 18. Rectificación de productos https://www.youtube.com/watch?v=8OTGMArrgrc&t=3s
 19. Crear presupuesto desde Excel plantilla 1000: https://www.youtube.com/watch?v=NdKtXw5JzWE
 20. Crear presupuesto desde Excel plantilla 2000 a nivel de Recursos: https://www.youtube.com/watch?v=MnI_tYrVm2w
+21. Lista de Costes: https://www.youtube.com/watch?v=Jo_fM4CstV0
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
