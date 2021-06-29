@@ -1,0 +1,55 @@
+~V|Ynext SPA|FIEBDC-3/2012|Odoo13.0||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|01#||Desmontados|0.00|30062020|0|
+~D|01#|R03RC020\1\8.400\R03RP050\1\8.400\R03RR020\1\120.700\|
+~C|R03RC020|M2/1MM|PICADO REVESTIMIENTOS MUROS INTERIORES|6.58|30062020|0|
+~D|R03RC020#|O01OA070\1\0.400\|
+~C|O01OA070|Horas|Peón ordinario|16.44|30062020|1|
+~T|R03RC020|Picado de muros interiores, hasta la completa eliminación de antiguos recubrimientos o revoques, con un espesor medio menor de 3 cm., ejecutado por procedimiento manual mediante piquetas y alcotanas, incluso retirada y carga de escombros sobre contenedor o camión para posterior transporte a vertedero.|
+~M|01#\R03RC020|1\2\|8|\Salon\1\2\0\0\\Dormitorio\1\6\0\0\|
+~C|R03RP050|M2/1MM|DESMONTADO ZÓCALOS BALDOSA CERÁMICA|11.54|30062020|0|
+~D|R03RP050#|O01OA060\1\0.300\O01OA070\1\0.400\|
+~C|O01OA060|Horas|Peón especializado|16.53|30062020|1|
+~T|R03RP050|Desmontado de zócalos de baldosa cerámica, realizada a mano, con recuperación de las piezas, retirada de escombros y carga, sin incluir transporte a vertedero, según NTE/ADD-10.|
+~M|01#\R03RP050|1\3\|8|\Salon\1\2\0\0\\Dormitorio\1\6\0\0\|
+~C|R03RR020|M2/1MM|RASCADO DE PINTURAS MUROS INTERIORES|3.21|30062020|0|
+~D|R03RR020#|O01OA070\1\0.195\|
+~T|R03RR020|Rascado de pinturas en muros interiores, hasta la completa eliminación de las mismas, ejecutado por procedimiento manual mediante rasqueta y espátula, incluso retirada y carga de escombros sobre contenedor o camión para posterior transporte a vertedero, sin deducción de huecos.|
+~M|01#\R03RR020|1\4\|121|\Salon\1\75\0\0\\Dormitorio\1\45\0\0\|
+~C|A3#||Revestimiento|815.77|30062020|0|
+~D|A3#|1.2.1\1\8.400\E11EPP220\1\8.400\|
+~C|1.2.1|M2/1MM|tratamiento superficiales de proteccion anti humedad|95.86|30062020|0|
+~D|1.2.1#|P01DW050\1\0.011\MX 0001\1\0.330\MX 0002\1\7.500\MX 0003\1\30.000\MX 0004\1\2.800\O01OB910\1\0.548\O01OB920\1\0.548\|
+~C|P01DW050|m3|Agua|1.50|30062020|3|
+~C|MX 0001|HL|Liquido antisalitre|13.73|30062020|3|
+~T|MX 0001|Líquido antisalitre, para limpieza de eflorescencias salinas incoloro, a base de resinas acrílicas en dispersión acuosa y aditivos especiales, permeable al vapor de agua, antimoho y antiverdín, para aplicar con brocha o rodillo.|
+~C|MX 0002|kg|Mortero de cal tipo GP CSIV W1|0.88|30062020|3|
+~T|MX 0002|Mortero de cal, Mape-Antique Rinzaffo "MAPEI SPAIN", tipo GP CSIV W1, según UNE-EN 998-1, color blanco, compuesto por cal hidráulica natural NHL 3,5, puzolanas, áridos seleccionados y otros aditivos, como capa base, para reparación de paramentos con humedades o manchas salinas.|
+~C|MX 0003|kg|Mortero de cal RSII W0|2.10|30062020|3|
+~C|MX 0004|kg|Mortero de cal tipo GP CSIV W2|0.69|30062020|3|
+~C|O01OB910|Horas|Oficial 1ª revocador|18.56|30062020|1|
+~C|O01OB920|Horas|Ayudante revocador|17.53|30062020|1|
+~T|1.2.1|Tratamiento de humedades por capilaridad en muros deteriorados. Sistema Mape-Antique "MAPEI SPAIN". CAPA BASE: mortero de cal, Mape-Antique Rinzaffo "MAPEI SPAIN", tipo GP CSIV W1, según UNE-EN 998-1, color blanco, compuesto por cal hidráulica natural NHL 3,5, puzolanas, áridos seleccionados y otros aditivos, de 5 mm de espesor, aplicado en una capa; CAPA DE REGULARIZACIÓN: mortero de cal Mape-Antique MC "MAPEI SPAIN", tipo R CSII W0, según UNE-EN 998-1, color blanco, compuesto por cal hidráulica natural NHL 3,5, puzolanas, áridos seleccionados, fibras y aditivos, aplicado en una capa, de 20 mm de espesor medio; CAPA DE ACABADO: mortero de cal, Mape-Antique FC Civile "MAPEI SPAIN", tipo GP CSIV W2, según UNE-EN 998-1, color blanco, compuesto por cal hidráulica natural NHL 3,5, según UNE-EN 459-1, puzolanas, áridos seleccionados y aditivos, con muy bajo contenido de sustancias orgánicas volátiles (VOC), aplicado en una capa, de 2 mm de espesor medio. Incluso líquido antisalitre, para limpieza de eflorescencias salinas. El precio no incluye la preparación del soporte|
+~M|A3#\1.2.1|3\1\|8|\Salon\1\2\0\0\\Dormitorio\1\6\0\0\|
+~C|E11EPP220|MT|RODAPIÉ GRES PORCEL. N/ESMALTADO 8x30cm.|7.61|30062020|0|
+~D|E11EPP220#|O01OB090\1\0.120\O01OA070\1\0.120\P08EPP220\1\1.050\P01FA050\1\0.600\P01FJ060\1\0.020\|
+~C|O01OB090|Horas|Oficial solador, alicatador|17.24|30062020|1|
+~C|P08EPP220|MT|Rodapié gres porcelán. no esmaltado 8x30|2.88|30062020|3|
+~C|P01FA050|kg|Adhesivo C2 Cleintex Flexible blanco|0.89|30062020|3|
+~C|P01FJ060|kg|Mort.tapaj.CG2 s/nEN-13888 Texjunt color|0.76|30062020|3|
+~T|E11EPP220|Rodapié biselado de gres porcelanico no esmaltado (BIb), de 8x30 cm. color gris, recibido con mortero cola , sin recrecido de mortero, i/rejuntado con mortero tapajuntas Texjunt color  y limpieza, S/NTE-RSR-2, medido en superficie realmente ejecutada.|
+~M|A3#\E11EPP220|3\3\|8|\Salon\1\2\0\0\\Dormitorio\1\6\0\0\|
+~C|A4#||Pintura|843.64|30062020|0|
+~D|A4#|E27EPA020\1\120.500\|
+~C|E27EPA020|M2/1MM|PINT.PLÁS.LISA MATE ESTÁND. OBRA B/COLOR|6.55|30062020|0|
+~D|E27EPA020#|O01OB230\1\0.160\O01OB240\1\0.160\P25OZ040\1\0.070\P25OG040\1\0.060\P25EI020\1\0.300\P25WW220\1\0.200\|
+~C|O01OB230|Horas|Oficial 1ª pintura|17.11|30062020|1|
+~C|O01OB240|Horas|Ayudante pintura|16.37|30062020|1|
+~C|P25OZ040||E.fij.muy pene.obra/mad ext/int Fijamont|5.75|30062020|3|
+~C|P25OG040|kg|Masilla ultrafina acabados Plasmont|1.09|30062020|3|
+~C|P25EI020||P.plást.acrílica obra b/col.Tornado Mate|1.87|30062020|3|
+~C|P25WW220|Unidades|Pequeño material|0.82|30062020|3|
+~T|E27EPA020|Pintura plástica lisa mate lavable standard obra nueva en blanco o pigmentada, sobre paramentos horizontales y verticales, dos manos, incluso mano de imprimación y plastecido.|
+~M|A4#\E27EPA020|4\1\|120|\Salon\1\75\0\0\\Dormitorio\1\45\0\0\|
+~C|Reforma_Vivienda##|||2198.08|30062020|0|
+~D|Reforma Vivienda##|01\1\1\A3\1\1\A4\1\1\|

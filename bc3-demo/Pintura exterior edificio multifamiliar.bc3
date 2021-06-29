@@ -1,0 +1,47 @@
+~V|Ynext SPA|FIEBDC-3/2012|Odoo13.0||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|A#||Actuaciones previas|0.00|30062020|0|
+~D|A#|R03RC010\1\142.480\R03RR010\1\569.920\R10LL030\1\569.920\|
+~C|R03RC010|M2/1MM|PICADO REVESTIMIENTOS MUROS EXTERIORES|7.23|30062020|0|
+~D|R03RC010#|O01OA070\1\0.440\|
+~C|O01OA070|Horas|Peón ordinario|16.44|30062020|1|
+~T|R03RC010|Picado de muros exteriores, hasta la completa eliminación de antiguos recubrimientos o revoques, de un espesor medio estimado de 3 cm., ejecutado por procedimiento manual mediante piquetas y alcotanas, incluso retirada y carga de escombros sobre contenedor o camión para posterior transporte a vertedero.|
+~M|A#\R03RC010|1\1\|142|\Fachada Frontal\1\75\0\0\\Fachada Sur\1\34\0\0\\Fachada Norte\1\34\0\0\|
+~C|R03RR010|M2/1MM|RASCADO DE PINTURAS MUROS EXTERIORES|3.53|30062020|0|
+~D|R03RR010#|O01OA070\1\0.215\|
+~T|R03RR010|Rascado de pinturas en muros exteriores, hasta la completa eliminación de las mismas, ejecutado por procedimiento manual mediante rasqueta y espátula, incluso retirada y carga de escombros sobre contenedor o camión para posterior transporte a vertedero, sin deducción de huecos.|
+~M|A#\R03RR010|1\1\|570|\Fachada Frontal\1\301\0\0\\Fachada Sur\1\134\0\0\\Fachada Norte\1\134\0\0\|
+~C|R10LL030|M2/1MM|LIMPIEZA MAMPOSTERÍA C/LANZA DE AGUA|14.34|30062020|0|
+~D|R10LL030#|O01OA030\1\0.350\O01OA060\1\0.303\P33E010\1\0.151\P01DW050\1\0.756\M12AF010\1\0.350\|
+~C|O01OA030|Horas|Oficial primera|17.67|30062020|1|
+~C|O01OA060|Horas|Peón especializado|16.53|30062020|1|
+~C|P33E010||Pentaclorofenato sódico acuoso 1|4.18|30062020|3|
+~C|P01DW050|m3|Agua|0.71|30062020|3|
+~C|M12AF010|Horas|Equipo agua fría a presión|5.67|30062020|2|
+~T|R10LL030|Limpieza de fachada de fábrica de mampostería en estado de conservación regular, mediante la aplicación sobre la superficie de lanza de agua a presión fría, caliente o vapor de agua, y de un humectante y fungicida inocuo, proyectado mediante el vehículo acuoso. Se comenzará por las partes altas linealmente, aplicando el tratamiento por franjas horizontales completas de 2-4 m. de altura, limpiando con agua abundante los detritus que se acumulen en las zonas inferiores, afectando a todos los elementos salientes, considerando un grado de dificultad normal.|
+~M|A#\R10LL030|1\3\|570|\Fachada Frontal\1\301\0\0\\Fachada Sur\1\134\0\0\\Fachada Norte\1\134\0\0\|
+~C|B#||Revestimientos|0.00|30062020|0|
+~D|B#|E08PFM020\1\142.480\|
+~C|E08PFM020|M2/1MM|ENFOSC. MAESTR.-FRATAS. 1/4 VER.|13.56|30062020|0|
+~D|E08PFM020#|O01OA030\1\0.460\O01OA050\1\0.230\|
+~C|O01OA050|Horas|Ayudante|16.78|30062020|1|
+~T|E08PFM020|Enfoscado maestreado y fratasado con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/4 (M-80) en paramentos verticales de 20 mm. de espesor, i/regleado, sacado de aristas y rincones con maestras cada 3 m. y andamiaje, s/NTE-RPE-7, medido deduciendo huecos.|
+~M|B#\E08PFM020|1\2\|142|\Fachada Frontal\1\75\0\0\\Fachada Sur\1\34\0\0\\Fachada Norte\1\34\0\0\|
+~C|C#||Pintura|0.00|30062020|0|
+~D|C#|E27FP010\1\365.120\E27FP011\1\124.160\|
+~C|E27FP010|M2/1MM|PINT.PLÁST.B/COLOR INT-EXT BUENA ADHER Azul|7.08|30062020|0|
+~D|E27FP010#|O01OB230\1\0.150\O01OB240\1\0.150\P25OZ040\1\0.080\PAEQW12\1\0.300\P25WW220\1\0.200\|
+~C|O01OB230|Horas|Oficial 1ª pintura|17.11|30062020|1|
+~C|O01OB240|Horas|Ayudante pintura|16.37|30062020|1|
+~C|P25OZ040||E.fij.muy pene.obra/mad ext/int Fijamont|5.75|30062020|3|
+~C|PAEQW12|LT|Pintura base plástica Color azul|1.05|30062020|3|
+~C|P25WW220|Unidades|Pequeño material|0.82|30062020|3|
+~T|E27FP010|Pintura plástica blanca o pigmentada, lisa mate tipo Vinilmat, buena adherencia en interior o exterior climas benevolos, sobre placas de cartón-yeso,  yeso y superficies de baja adherencia como enfoscados lisos o fibrocemento, dos manos, incluso mano de fondo, plastecido y acabado.|
+~M|C#\E27FP010|1\1\|365|\Fachada Frontal\4\11\3\0\\Fachada Frontal\12\1\1\0\\Fachada Sur\1\9\11\0\\Fachada Sur\8\1\1\0\\Fachada Norte\1\9\11\0\\Fachada Norte\8\1\1\0\|
+~C|E27FP011|M2/1MM|PINT.PLÁST.B/COLOR INT-EXT BUENA ADHER Beige|7.08|30062020|0|
+~D|E27FP011#|O01OB230\1\0.150\O01OB240\1\0.150\P25OZ040\1\0.080\PAEQW15\1\0.300\P25WW220\1\0.200\|
+~C|PAEQW15|LT|Pintura base plástica Color beige|0.99|30062020|3|
+~T|E27FP011|Pintura plástica blanca o pigmentada, lisa mate tipo Vinilmat, buena adherencia en interior o exterior climas benevolos, sobre placas de cartón-yeso,  yeso y superficies de baja adherencia como enfoscados lisos o fibrocemento, dos manos, incluso mano de fondo, plastecido y acabado.|
+~M|C#\E27FP011|1\1\|124|\Fachada Frontal\4\11\3\0\\Puertas\-8\2\2\0\\Fachada Sur\4\9\0\0\\Fachada Sur\2\12\0\0\\Fachada Norte\4\9\0\0\\Fachada Norte\2\12\0\0\|
+~C|Pintura_exterior_edificio_multifamiliar##|||15841.460000000001|30062020|0|
+~D|Pintura exterior edificio multifamiliar##|A\1\1\B\1\1\C\1\1\|

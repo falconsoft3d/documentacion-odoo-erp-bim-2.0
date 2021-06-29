@@ -1,0 +1,158 @@
+~V|Ynext SPA|FIEBDC-3/2012|Odoo13.0||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|A1#||Desmontados|389.62|30062020|0|
+~D|A1#|A11\1\1.000\A12\1\1.000\A13\1\1.000\A14\1\1.000\A15\1\9.600\A16\1\33.280\|
+~C|A11|Unidades|LEVANTADO DE LAVABO SIN RECUPERACIÓN|13.45|30062020|0|
+~D|A11#|O0006\1\0.350\O0008\1\0.350\O0009\1\0.100\|
+~C|O0006|Horas|Oficial segunda|17.19|30062020|1|
+~C|O0008|Horas|Peón especializado|16.53|30062020|1|
+~C|O0009|Horas|Peón ordinario|16.44|30062020|1|
+~T|A11|Levantado de lavabo y accesorios, sin  recuperación del material con retirada de escombros y carga, sin incluir transporte a vertedero, según NTE/ADD-1.|
+~C|A12|Unidades|LEVANTADO DE BAÑERA SIN RECUPERACIÓN|26.89|30062020|0|
+~D|A12#|O0006\1\0.700\O0008\1\0.700\O0009\1\0.200\|
+~T|A12|Levantado de bañera y accesorios, sin recuperación del material con retirada de escombros y carga, sin incluir transporte a vertedero, según NTE/ADD-1.|
+~C|A13|Unidades|LEVANTADO DE INODORO CON RECUPERACIÓN|14.31|30062020|0|
+~D|A13#|O0006\1\0.400\O0008\1\0.300\O0009\1\0.150\|
+~T|A13|Levantado de inodoro y accesorios, con recuperación del material con retirada de escombros y carga, sin incluir transporte a vertedero, según NTE/ADD-1.|
+~C|A14|Unidades|LEVANTADO DE BIDÉ CON RECUPERACIÓN|13.48|30062020|0|
+~D|A14#|O0006\1\0.400\O0008\1\0.300\O0009\1\0.100\|
+~T|A14|Levantado de bidé y accesorios, con recuperación del material con retirada de escombros y carga, sin incluir transporte a vertedero, según NTE/ADD-1.|
+~C|A15|M2/1MM|Derribo falso techo yeso laminado|2.15|30062020|0|
+~D|A15#|O0009\1\0.131\|
+~M|A1#\A15|1\5\|10|\baño\1\4\0\2\|
+~C|A16|M2/1MM|Derribo de alicatado|9.04|30062020|0|
+~D|A16#|O0009\1\0.550\|
+~T|A16|Demolición de alicatado de azulejos, a mano, con retirada de escombros, sin incluir transporte a vertedero.|
+~M|A1#\A16|1\6\|33|\Baño\1\13\0\3\|
+~C|A2#||Fontaneria|1962.26|30062020|0|
+~D|A2#|A21\1\1.000\A22\1\1.000\A23\1\1.000\A24\1\1.000\A25\1\1.000\A26\1\1.000\|
+~C|A21|Unidades|Bañera rectangular JACOB DELAFON Stil Up 150x70x39.5 cm|286.80|30062020|0|
+~D|A21#|O0014\1\1.000\P18BC090\1\1.000\P18GB180\1\1.000\P17SC130\1\1.000\P17SV090\1\1.000\E03APR010\1\1.000\|
+~C|O0014|Horas|Oficial 1ª fontanero calefactor|17.85|30062020|1|
+~C|P18BC090|Unidades|Bañera rectangular JACOB DELAFON Stil Up 150x70x39.5 cm|197.00|30062020|3|
+~C|P18GB180|Unidades|G. mmdo. baño-duc.cro.mod. aquanova plus|63.37|30062020|3|
+~C|P17SC130|Unidades|Desag.bañera c/rebos.s.hori.40mm|5.88|30062020|3|
+~C|P17SV090|Unidades|Válvula para baño c/cadena 40mm.|2.70|30062020|3|
+~C|E03APR010|MCUB|ARQUETA REGISTRABLE PE RASAN D=400 mm, ALTURA MÁX=0,60 m|192.17|30062020|0|
+~D|E03APR010#|O01OA030\1\1.000\O01OA060\1\1.500\O01OB180\1\0.500\P02EAO010\1\1.000\|
+~C|O01OA030|HL|Oficial primera|20.84|30062020|1|
+~C|O01OA060|HL|Peón especializado|17.83|30062020|1|
+~C|O01OB180|HL|Oficial 2ª fontanero calefactor|19.16|30062020|1|
+~C|P02EAO010|MCUB|Arqueta de PE tipo RP D=400 mm H=600 mm|135.00|30062020|3|
+~T|A21|Bañera rectangular JACOB DELAFON Still up disponible 1500x700 medidas , con grifería mezcladora exterior monomando mod. r, con inversor baño-ducha, ducha teléfono, flexible de 170 cm. y soporte articulado, incluso desagüe con rebosadero, de salida horizontal, de 40 mm., instalada y funcionando.|
+~M|A2#\A21|2\1\|1|\Fontanería\1\0\0\0\|
+~C|A22|Unidades|LAV.2 SENOS 130x53 COL.G.MEZCL.|666.12|30062020|0|
+~D|A22#|O0014\1\1.200\P18LM010\1\1.000\P18CM030\1\1.000\P18GL170\1\1.000\P17SV100\1\2.000\P17XT030\1\2.000\P18GW040\1\2.000\|
+~C|P18LM010|Unidades|Encimera lavabo Encimera Cristal gris de 200x80 cm|159.00|30062020|3|
+~C|P18CM030|Unidades|Mueble lacado p/lavabo 100 cm.|363.00|30062020|3|
+~C|P18GL170|Unidades|Grif.mezcl.caño central giratorio|107.28|30062020|3|
+~C|P17SV100|Unidades|Válvula p/lavabo-bidé de 32 mm.|2.65|30062020|3|
+~C|P17XT030|Unidades|Llave de escuadra de 1/2" a 1/2"|2.46|30062020|3|
+~C|P18GW040|Unidades|Latiguillo flex.20cm.1/2"a 1/2"|2.60|30062020|3|
+~T|A22|lavabo Encimera Cristal gris de 130x53 cm. de medidas totales, para colocar sobre encimera, incluso ésta, con grifería mezcladora de caño central giratorio, con aireador, incluso válvulas de desagüe de 32 mm., llaves de escuadra de 1/2" cromadas, y latiguillos flexibles de 20 cm. y de 1/2", instalado y funcionando.|
+~C|A23|Unidades|INOD.T.BAJO COMPL. S.NORMAL COL.|264.25|30062020|0|
+~D|A23#|O0014\1\1.300\P18IB010\1\1.000\P17XT030\1\1.000\P18GW040\1\1.000\|
+~C|P18IB010|Unidades|Pack inodoro con salida horizontal Access|235.98|30062020|3|
+~T|A23|Inodoro de porcelana vitrificada blanco, de tanque bajo serie normal, colocado mediante tacos y tornillos al solado, incluso sellado con silicona y compuesto por: taza, tanque bajo con tapa y mecanismos y asiento con tapa lacados, con bisagras de acero, instalado, incluso con llave de escuadra de 1/2" cromada y latiguillo flexible de 20 cm. y de 1/2", funcionando.|
+~C|A24|Unidades|BIDÉ C/TAPA S.MEDIA COL.|108.12|30062020|0|
+~D|A24#|O0014\1\1.000\P18VT030\1\1.000\P18GT060\1\1.000\P17SV100\1\1.000\P17XT030\1\2.000\P18GW040\1\2.000\|
+~C|P18VT030|Unidades|Bidé blanco Mistral ROCA|44.00|30062020|3|
+~C|P18GT060|Unidades|Grifo monomando bide cromo s.n.|33.50|30062020|3|
+~T|A24|Bidé de porcelana vitrificada en color, con tapa lacada incluida, colocado mediante tacos y tornillos al solado, incluso sellado con silicona, con grifo monomando con aireador y enlaces de alimentación flexibles, incluso válvula de desagüe de 32 mm., llaves de escuadra de 1/2" cromadas y latiguillos flexibles de 20 cm. y de 1/2", instalado y funcionando.|
+~C|A25|Unidades|CONJ.ACCESORIOS METAL CROMADO|232.67|30062020|0|
+~D|A25#|O0005\1\1.000\P18CL080\1\1.000\|
+~C|O0005|Horas|Oficial primera|17.67|30062020|1|
+~C|P18CL080|Unidades|Conjunto accesorios metal crom.|215.00|30062020|3|
+~T|A25|Suministro y colocación de conjunto de accesorios de baño, de metal cromado, colocados mediante tacos de plástico y tornillos, y compuesto por: 2 toalleros para lavabo y bidé, 1 jabonera, 1 portarrollos, 1 percha ; montados y limpios.|
+~C|A26|Unidades|Espejo de baño con luz Mia 200 x 80 cm|404.30|30062020|0|
+~D|A26#|O0005\1\0.300\P18CB130\1\1.000\|
+~C|P18CB130|Unidades|Espejo de baño con luz Mia 200 x 80 cm|399.00|30062020|3|
+~T|A26|Espejo de baño fabricado en vidrio sin marco con luz LED de 40 W de potencia, con sensor táctil on/off para accionar la luz cuando la necesites, instalado.|
+~C|A3#||Alicatados|1711.26|30062020|0|
+~D|A3#|A31\1\33.280\A32\1\33.280\|
+~C|A31|M2/1MM|ALIC.Azulejo de decoración Tessile|40.03|30062020|0|
+~D|A31#|O0017\1\0.300\O0012\1\0.300\O0009\1\0.150\P09ABV100\1\1.050\P01FA030\1\6.000\A01L090\1\0.001\|
+~C|O0017|Horas|Oficial solador, alicatador|17.50|30062020|1|
+~C|O0012|Horas|Ayudante solador, alicatador|16.83|30062020|1|
+~C|P09ABV100|M2/1MM|Azulejo de decoración Tessile de pasta blanca gris / plata|21.99|30062020|3|
+~C|P01FA030|kg|Adhesivo C1 Cleintex Porcelanico blanco|0.67|30062020|3|
+~C|A01L090|m3|LECHADA CEM. BLANCO BL 22,5 X|153.87|30062020|3|
+~D|A01L090#|O0009\1\0.000\P01CC120\1\0.000\P01DW050\1\0.000\|
+~C|P01CC120||Cemento blanco BL 22,5 X sacos|239.60|30062020|3|
+~C|P01DW050|m3|Agua|1.32|30062020|3|
+~T|A01L090|Lechada de cemento blanco BL 22,5 X amasado a mano, s/RC-03.|
+~T|A31|Alicatado con Azulejo de decoración Tessile de pasta blanca gris / plata), recibido Adhesivo C1 s/n EN-12004 Cleintex Porcelanico con doble encolado, sin incluir enfoscado de mortero, i/p.p. de cortes, ingletes, piezas especiales, rejuntado con lechada de cemento blanco BL-V 22,5 y limpieza, s/NTE-RPA-3, medido deduciendo huecos superiores a 1 m2.|
+~M|A3#\A31|3\1\|33|\Baño\1\13\0\3\|
+~C|A32|M2/1MM|ENFOSCADO PREVIO|11.39|30062020|0|
+~D|A32#|O0005\1\0.360\O0007\1\0.180\A02A050\1\0.020\|
+~C|O0007|Horas|Ayudante|16.78|30062020|1|
+~C|A02A050|m3|MORTERO CEMENTO 1/3 M-160|100.46|30062020|3|
+~D|A02A050#|O0009\1\0.000\P01CC020\1\0.000\P01AA020\1\0.000\P01DW050\1\0.000\M03HH020\1\0.000\|
+~C|P01CC020||Cemento CEM II/B-P 32,5 N sacos|115.60|30062020|3|
+~C|P01AA020|m3|Arena de río 0/6 mm.|14.50|30062020|3|
+~C|M03HH020|Horas|Hormigonera 200 l. electrica|17.93|30062020|2|
+~T|A02A050|Mortero de cemento CEM II/B-P 32,5 N y arena de río de dosificación 1/3 (M-160), confeccionado con hormigonera de 250 l., s/RC-03.|
+~T|A32|Enfoscado fratasado sin maestrear con mortero de cemento CEM II/B-P 32,5 N y arena de río 1/3 (M-160), en paramentos verticales de 20 mm. de espesor, i/regleado, sacado de rincones, aristas y andamiaje, s/NTE-RPE-5, medido deduciendo huecos.|
+~M|A3#\A32|3\2\|33|\Baño\1\13\0\3\|
+~C|A4#||Pavimento|216.29|30062020|0|
+~D|A4#|A41\1\9.600\|
+~C|A41|M2/1MM|Mosaico Enzo beige para suelo y pared de 30x30cm|22.53|30062020|0|
+~D|A41#|O0017\1\0.350\O0009\1\0.350\P08EPG011\1\1.050\P01FA020\1\3.000\P01FJ065\1\0.500\|
+~C|P08EPG011|M2/1MM|Mosaico Enzo beige para suelo y pared de 30x30cm|8.99|30062020|3|
+~C|P01FA020|kg|Adhesivo Top blanco|0.35|30062020|3|
+~C|P01FJ065|kg|Lechada Tapajuntas  blanco|0.31|30062020|3|
+~T|A41|Solado de gres prensado en seco Mosaico Enzo beige para suelo y pared de 30x30cm, para transito medio (Abrasión III), recibido con adhesivo C1 s/n EN-12004 Cleintex Plus blanco, i/rejuntado con lechada tapajuntas Texjunt Borada blanco y limpieza, S/NTE-RSR-2, medido en superficie realmente ejecutada.|
+~M|A4#\A41|4\1\|10|\baño\1\4\0\2\|
+~C|A5#||Falso techo|180.38|30062020|0|
+~D|A5#|A51\1\9.600\|
+~C|A51|M2/1MM|FALSO TECHO CART-YESO LISO N-13|18.79|30062020|0|
+~D|A51#|O0018\1\0.320\O0013\1\0.320\P04PY030\1\1.050\P04PW040\1\0.470\P04PW010\1\1.890\P04PW150\1\0.700\P04TW070\1\2.600\P04PW090\1\10.000\P04PW100\1\5.000\P04TW080\1\0.320\P04TW090\1\1.260\P04PW030\1\0.530\|
+~C|O0018|Horas|Oficial yesero o escayolista|17.65|30062020|1|
+~C|O0013|Horas|Ayudante yesero o escayolista|16.83|30062020|1|
+~C|P04PY030|M2/1MM|Placa Cart-Yeso N-13|4.05|30062020|3|
+~C|P04PW040|kg|Pasta para juntas Cart-Yeso|0.78|30062020|3|
+~C|P04PW010|MT|Cinta de juntas Cart-Yeso|0.04|30062020|3|
+~C|P04PW150|MT|Perfil laminado U 34x31x34 mm|0.76|30062020|3|
+~C|P04TW070|MT|Perfil techo continuo Cart-Yeso T/C-47|0.67|30062020|3|
+~C|P04PW090|Unidades|Tornillo PM-25 mm.|0.01|30062020|3|
+~C|P04PW100|Unidades|Tornillo MM-9,5 mm Cart-Yeso|0.02|30062020|3|
+~C|P04TW080|Unidades|Pieza empalme techo Cart-Yeso T-47|0.18|30062020|3|
+~C|P04TW090|Unidades|Horquilla techo Cart-Yeso T-47|0.27|30062020|3|
+~C|P04PW030|kg|Material de agarre Cart-Yeso|0.34|30062020|3|
+~T|A51|Falso techo formado por una placa de cartón-yeso de 13 mm. de espesor, colocada sobre una estructura oculta de acero galvanizado, formada por perfiles T/C de 40 mm. cada 40 cm. y perfilería U de 34x31x34 mm., i/replanteo auxiliar, accesorios de fijación, nivelación y repaso de juntas con cinta y pasta, montaje y desmontaje de andamios, terminado s/NTE-RTC, medido deduciendo huecos superiores a 2 m2.|
+~M|A5#\A51|5\1\|10|\baño\1\4\0\2\|
+~C|A6#||Electricidad|166.85|30062020|0|
+~D|A6#|A61\1\3.000\A62\1\2.000\A63\1\1.000\|
+~C|A61|Unidades|LUM.EMPOT.DIF.PRISMÁTICO 2x18 W.AF|33.86|30062020|0|
+~D|A61#|O0015\1\0.400\O0010\1\0.400\P16BE010\1\1.000\P16CC080\1\2.000\P01DW090\1\1.000\|
+~C|O0015|Horas|Oficial 1ª electricista|18.55|30062020|1|
+~C|O0010|Horas|Ayudante electricista|16.85|30062020|1|
+~C|P16BE010|Unidades|ACCESORIO EMPOTRAR MIX BLANCO MATE.IP23|8.49|30062020|3|
+~C|P16CC080|Unidades|Bombilla LEXMAN estándar con casquillo e27|5.22|30062020|3|
+~C|P01DW090|Unidades|Pequeño material|0.77|30062020|3|
+~T|A61|Luminaria de empotrar, de 2x18 W. con difusor en metacrilato prismático transparente,  con protección IP20 clase I, cuerpo de chapa de acero galvanizado esmaltada en blanco, equipo eléctrico formado por reactancias, condensadores, portalámparas, cebadores, lámparas fluorescentes nueva generación y bornes de conexión. Instalada, incluyendo replanteo, accesorios de anclaje y conexionado.|
+~M|A6#\A61|6\1\|3|\LED\3\0\0\0\|
+~C|A62|Unidades|enchufes LEXMAN Color blanco|20.28|30062020|0|
+~D|A62#|O0015\1\0.450\O0010\1\0.450\P15GB010\1\1.000\P15GA020\1\1.000\P15MTA080\1\1.000\P01DW090\1\1.000\|
+~C|P15GB010|MT|Tubo PVC corrugado M 20/gp5|0.11|30062020|3|
+~C|P15GA020|MT|Cond. rígi. 750 V 2,5 mm2 Cu|0.22|30062020|3|
+~C|P15MTA080|Unidades|enchufes LEXMAN Color blanco|3.25|30062020|3|
+~T|A62|Base de enchufe con toma de tierra lateral realizada con tubo PVC corrugado de M 20/gp5 y conductor rígido de 2,5 mm2 de Cu., y aislamiento VV 750 V., en sistema monofásico con toma de tierra (fase, neutro y tierra), incluyendo caja de registro, caja de mecanismo universal con tornillos, enchufes LEXMAN Color blanco|
+~C|A63|Unidades|Interruptor doble LEXMAN|24.71|30062020|0|
+~D|A63#|O0015\1\0.500\O0010\1\0.500\P15GB010\1\1.000\P15GA010\1\1.000\P15MTA060\1\1.000\P01DW090\1\1.000\|
+~C|P15GA010|MT|Cond. rígi. 750 V 1,5 mm2 Cu|0.13|30062020|3|
+~C|P15MTA060|Unidades|Interruptor doble LEXMAN Color|5.99|30062020|3|
+~T|A63|Punto doble interruptor realizado con tubo PVC corrugado de M 20/gp5 y conductor rígido de 1,5 mm2 de Cu., y aislamiento VV 750 V., incluyendo caja de registro, caja de mecanismo universal con tornillos, Interruptor doble LEXMAN Color, instalado.|
+~C|A7#||Pintura|55.39|30062020|0|
+~D|A7#|A71\1\9.600\|
+~C|A71|M2/1MM|PINT.PLÁST.B/COLOR INT-EXT BUENA ADHER.|5.77|30062020|0|
+~D|A71#|O0016\1\0.050\O0011\1\0.200\P25OZ040\1\0.080\P25ES080\1\0.450\P25WW220\1\0.200\|
+~C|O0016|Horas|Oficial 1ª pintura|17.70|30062020|1|
+~C|O0011|Horas|Ayudante pintura|16.80|30062020|1|
+~C|P25OZ040||E.fij.muy pene.obra/mad ext/int Fijamont|5.75|30062020|3|
+~C|P25ES080||P.p.int./ext.sup.baja adher.|1.99|30062020|3|
+~C|P25WW220|Unidades|Pequeño material|0.82|30062020|3|
+~T|A71|Pintura plástica blanca o pigmentada, lisa mate tipo Vinilmat, buena adherencia en interior o exterior climas benevolos, sobre placas de cartón-yeso,  yeso y superficies de baja adherencia como enfoscados lisos o fibrocemento, dos manos, incluso mano de fondo, plastecido y acabado.|
+~M|A7#\A71|7\1\|10|\Falsotecho\1\4\0\2\|
+~C|REFORMADOBANO##|||4682.05|30062020|0|
+~D|REFORMADOBANO##|A1\1\1\A2\1\1\A3\1\1\A4\1\1\A5\1\1\A6\1\1\A7\1\1\|

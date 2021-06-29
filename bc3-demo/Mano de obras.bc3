@@ -1,0 +1,241 @@
+~V|SOFT S.A.|FIEBDC-3/2002|Presto 8.8||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|ELECTRICIDAD_##|||0|140420|0|
+~D|ELECTRICIDAD_##|O01O\1\1\|
+~C|O01O#||MANO DE OBRA|0|140420|0|
+~D|O01O#|O01OA\1\1\O01OB\1\1\O01OC\1\1\|
+~A|O01O#|mano\obra\|
+~C|O01OA#||MANO DE OBRA SALARIAL|0|140420|0|
+~D|O01OA#|O01OA010\1\0\O01OA020\1\0\O01OA030\1\0\O01OA040\1\0\O01OA050\1\0\O01OA060\1\0\O01OA070\1\0\O01OA080\1\0\O01OA090\1\0\O01OA100\1\0\O01OA110\1\0\O01OA120\1\0\O01OA130\1\0\O01OA140\1\0\O01OA150\1\0\|
+~A|O01OA#|mano\obra\|
+~C|O01OA010|h.|Encargado|19.56|140420|1|
+~C|O01OA020|h.|Capataz|18.64|140420|1|
+~C|O01OA030|h.|Oficial primera|17.67|140420|1|
+~C|O01OA040|h.|Oficial segunda|17.19|140420|1|
+~C|O01OA050|h.|Ayudante|16.78|140420|1|
+~A|O01OA050|ayudante\|
+~C|O01OA060|h.|Peón especializado|16.53|140420|1|
+~A|O01OA060|especial\|
+~C|O01OA070|h.|Peón ordinario|16.44|140420|1|
+~A|O01OA070|ordinario\|
+~C|O01OA080|h.|Maquinista o conductor|18.08|140420|1|
+~A|O01OA080|maquinaria\conductor\|
+~C|O01OA090|h.|Cuadrilla A|42.67|140420|0|
+~D|O01OA090|O01OA030\1\1\O01OA050\1\1\O01OA070\1\0.5\|
+~A|O01OA090|cuadrilla\|
+~C|O01OA100|h.|Cuadrilla B|41.94|140420|0|
+~D|O01OA100|O01OA040\1\1\O01OA060\1\1\O01OA070\1\0.5\|
+~A|O01OA100|cuadrilla\|
+~C|O01OA110|h.|Cuadrilla C|41.53|140420|0|
+~D|O01OA110|O01OA050\1\1\O01OA060\1\1\O01OA070\1\0.5\|
+~A|O01OA110|cuadrilla\|
+~C|O01OA120|h.|Cuadrilla D|41.44|140420|0|
+~D|O01OA120|O01OA050\1\1\O01OA070\1\1.5\|
+~A|O01OA120|cuadrilla\|
+~C|O01OA130|h.|Cuadrilla E|34.11|140420|0|
+~D|O01OA130|O01OA030\1\1\O01OA070\1\1\|
+~A|O01OA130|cuadrilla\|
+~C|O01OA140|h.|Cuadrilla F|33.63|140420|0|
+~D|O01OA140|O01OA040\1\1\O01OA070\1\1\|
+~A|O01OA140|cuadrilla\|
+~C|O01OA150|h.|Cuadrilla G|33.22|140420|0|
+~D|O01OA150|O01OA050\1\1\O01OA070\1\1\|
+~A|O01OA150|cuadrilla\|
+~C|O01OB#||MANO DE OBRA POR OFICIOS|0|140420|0|
+~D|O01OB#|O01OB010\1\0\O01OB020\1\0\O01OB025\1\0\O01OB030\1\0\O01OB040\1\0\O01OB050\1\0\O01OB060\1\0\O01OB070\1\0\O01OB080\1\0\O01OB090\1\0\O01OB100\1\0\O01OB101\1\0\O01OB102\1\0\O01OB110\1\0\O01OB120\1\0\O01OB129\1\0\O01OB130\1\0\O01OB140\1\0\O01OB150\1\0\O01OB160\1\0\O01OB170\1\0\O01OB180\1\0\O01OB190\1\0\O01OB195\1\0\O01OB200\1\0\O01OB210\1\0\O01OB220\1\0\O01OB222\1\0\O01OB223\1\0\O01OB224\1\0\O01OB230\1\0\O01OB240\1\0\O01OB250\1\0\O01OB254\1\0\O01OB256\1\0\O01OB260\1\0\O01OB270\1\0\O01OB275\1\0\O01OB280\1\0\O01OB285\1\0\O01OB286\1\0\O01OB290\1\0\O01OB300\1\0\O01OB310\1\0\O01OB505\1\0\O01OB510\1\0\O01OB520\1\0\O01OB530\1\0\O01OB540\1\0\O01OB550\1\0\O01OB800\1\0\O01OB810\1\0\O01OB910\1\0\O01OB920\1\0\O01OB940\1\0\O01OB945\1\0\|
+~A|O01OB#|mano\obra\|
+~C|O01OB010|h.|Oficial 1ª encofrador|17.69|140420|1|
+~A|O01OB010|encofrar\|
+~C|O01OB020|h.|Ayudante encofrador|17.35|140420|1|
+~A|O01OB020|ayudante\encofrar\|
+~C|O01OB025|h.|Oficial 1ª gruísta|17.24|140420|1|
+~C|O01OB030|h.|Oficial 1ª ferralla|17.69|140420|1|
+~C|O01OB040|h.|Ayudante ferralla|17.35|140420|1|
+~A|O01OB040|ayudante\|
+~C|O01OB050|h.|Oficial 1ª ladrillero|17.46|140420|1|
+~C|O01OB060|h.|Ayudante ladrillero|17.12|140420|1|
+~A|O01OB060|ayudante\|
+~C|O01OB070|h.|Oficial cantero|17.24|140420|1|
+~C|O01OB080|h.|Ayudante cantero|16.96|140420|1|
+~A|O01OB080|ayudante\|
+~C|O01OB090|h.|Oficial solador, alicatador|17.24|140420|1|
+~A|O01OB090|alicatar\|
+~C|O01OB100|h.|Ayudante solador, alicatador|16.96|140420|1|
+~A|O01OB100|ayudante\alicatar\|
+~C|O01OB101|h.|Oficial marmolista|18.57|140420|1|
+~C|O01OB102|h.|Ayudante marmolista|18.05|140420|1|
+~A|O01OB102|ayudante\|
+~C|O01OB110|h.|Oficial yesero o escayolista|17.24|140420|1|
+~A|O01OB110|yeso\|
+~C|O01OB120|h.|Ayudante yesero o escayolista|17.12|140420|1|
+~A|O01OB120|ayudante\yeso\|
+~C|O01OB129|h.|Oficial 1ª metal|16.93|140420|1|
+~A|O01OB129|metal\|
+~C|O01OB130|h.|Oficial 1ª cerrajero|17.24|140420|1|
+~A|O01OB130|cerrajería\|
+~C|O01OB140|h.|Ayudante cerrajero|18.28|140420|1|
+~A|O01OB140|ayudante\cerrajería\|
+~C|O01OB150|h.|Oficial 1ª carpintero|18.13|140420|1|
+~A|O01OB150|carpintero\|
+~C|O01OB160|h.|Ayudante carpintero|16.58|140420|1|
+~A|O01OB160|ayudante\carpintero\|
+~C|O01OB170|h.|Oficial 1ª fontanero calefactor|18.22|140420|1|
+~A|O01OB170|fontanería\calefactor\|
+~C|O01OB180|h.|Oficial 2ª fontanero calefactor|16.25|140420|1|
+~A|O01OB180|calefactor\fontanería\|
+~C|O01OB190|h.|Oficial 3ª fontanero calefactor|15.65|140420|1|
+~A|O01OB190|fontanería\calefactor\|
+~C|O01OB195|h.|Ayudante fontanero|17.12|140420|1|
+~A|O01OB195|ayudante\fontanería\|
+~C|O01OB200|h.|Oficial 1ª electricista|17.51|140420|1|
+~A|O01OB200|electricidad\|
+~C|O01OB210|h.|Oficial 2ª electricista|16.37|140420|1|
+~A|O01OB210|electricidad\|
+~C|O01OB220|h.|Ayudante electricista|17.12|140420|1|
+~A|O01OB220|electricidad\ayudante\|
+~C|O01OB222|h.|Oficial 1ª Instalador telecomunicación|17.51|140420|1|
+~A|O01OB222|instalación\|
+~C|O01OB223|h.|Oficial 2ª Instalador telecomunicación|16.37|140420|1|
+~A|O01OB223|instalación\|
+~C|O01OB224|h.|Ayudante Instalador telecomunicación|16.44|140420|1|
+~A|O01OB224|instalación\ayudante\|
+~C|O01OB230|h.|Oficial 1ª pintura|17.11|140420|1|
+~A|O01OB230|pintura\|
+~C|O01OB240|h.|Ayudante pintura|16.37|140420|1|
+~A|O01OB240|ayudante\pintura\|
+~C|O01OB250|h.|Oficial 1ª vidriería|16.61|140420|1|
+~C|O01OB254|h.|Instalador muro cortina|29.86|140420|1|
+~A|O01OB254|instalación\cortina\muro\|
+~C|O01OB256|h.|Ayudante instalador muro cortina|24.49|140420|1|
+~A|O01OB256|ayudante\cortina\instalación\muro\|
+~C|O01OB260|h.|Ayudante vidriería|16.55|140420|1|
+~A|O01OB260|ayudante\|
+~C|O01OB270|h.|Oficial 1ª jardinería|17.18|140420|1|
+~A|O01OB270|jardinería\|
+~C|O01OB275|h.|Podador y espec.arboricultor|19.98|140420|1|
+~C|O01OB280|h.|Peón jardinería|16.23|140420|1|
+~A|O01OB280|jardinería\|
+~C|O01OB285|h.|Peón ordinario agroforestal|10.96|140420|1|
+~A|O01OB285|ordinario\|
+~C|O01OB286|h.|Peón especializado agroforestal|17.32|140420|1|
+~A|O01OB286|especial\|
+~C|O01OB290|h.|Equipo cerrajero taller|32.84|140420|1|
+~A|O01OB290|taller\equipo\cerrajería\|
+~C|O01OB300|h.|Equipo cerrajero montaje|50.07|140420|1|
+~A|O01OB300|equipo\cerrajería\montaje\|
+~C|O01OB310|h.|Equipo crist. montaje estructura|54.17|140420|1|
+~A|O01OB310|montaje\equipo\estructura\|
+~C|O01OB505|h.|Montador especializado|21.51|140420|1|
+~A|O01OB505|especial\|
+~C|O01OB510|h.|Ayudante montador especializado|17.12|140420|1|
+~A|O01OB510|ayudante\especial\|
+~C|O01OB520|h.|Equipo técnico laboratorio|70.31|140420|1|
+~A|O01OB520|laboratorio\equipo\|
+~C|O01OB530|h.|Restaurador licenciado ob.cortas|28.63|140420|1|
+~A|O01OB530|cortador\|
+~C|O01OB540|h.|Restaurador licenciado ob.medias|23.88|140420|1|
+~A|O01OB540|medio\|
+~C|O01OB550|h.|Restaurador licenciado ob.largas|19.64|140420|1|
+~C|O01OB800|h.|Oficial 1ª soldador|17.18|140420|1|
+~A|O01OB800|soldadura\|
+~C|O01OB810|h.|Ayudante soldador|17.12|140420|1|
+~A|O01OB810|soldadura\ayudante\|
+~C|O01OB910|h.|Oficial 1ª revocador|17.55|140420|1|
+~C|O01OB920|h.|Ayudante revocador|17.9|140420|1|
+~A|O01OB920|ayudante\|
+~C|O01OB940|h.|Oficial 1ª pizarrista|17.55|140420|1|
+~C|O01OB945|h.|Ayudante pizarrista|17.9|140420|1|
+~A|O01OB945|ayudante\|
+~C|O01OC#||MANO DE OBRA ESPECIALIZADA|0|140420|0|
+~D|O01OC#|O01OC010\1\0\O01OC020\1\0\O01OC030\1\0\O01OC040\1\0\O01OC050\1\0\O01OC070\1\0\O01OC080\1\0\O01OC090\1\0\O01OC100\1\0\O01OC110\1\0\O01OC115\1\0\O01OC120\1\0\O01OC125\1\0\O01OC130\1\0\O01OC140\1\0\O01OC150\1\0\O01OC160\1\0\O01OC170\1\0\O01OC175\1\0\O01OC180\1\0\O01OC190\1\0\O01OC200\1\0\O01OC205\1\0\O01OC210\1\0\O01OC220\1\0\O01OC230\1\0\O01OC240\1\0\O01OC250\1\0\O01OC260\1\0\O01OC270\1\0\O01OC275\1\0\O01OC280\1\0\O01OC290\1\0\O01OC300\1\0\O01OC310\1\0\O01OC320\1\0\O01OC350\1\0\O01OC360\1\0\O01OC370\1\0\O01OC380\1\0\O01OC390\1\0\O01OC400\1\0\O01OC410\1\0\O01OC420\1\0\O01OC430\1\0\O01OC435\1\0\O01OC440\1\0\O01OC500\1\0\O01OC510\1\0\|
+~A|O01OC#|mano\obra\especial\|
+~C|O01OC010|h.|Montador especialista andamios|18.27|140420|1|
+~A|O01OC010|andamio\especial\|
+~C|O01OC020|h.|Especialista traslado cuadros|17.29|140420|1|
+~A|O01OC020|especial\transporte\cuadro\|
+~C|O01OC030|h.|Ayudante traslado cuadros|15.46|140420|1|
+~A|O01OC030|cuadro\transporte\ayudante\|
+~C|O01OC040|h.|Peón especialista traslados|15.64|140420|1|
+~A|O01OC040|transporte\especial\|
+~C|O01OC050|h.|Director tec.traslado cuadros|22.46|140420|1|
+~A|O01OC050|director\cuadro\transporte\|
+~C|O01OC070|h.|Especialista cosidos estáticos|18.74|140420|1|
+~A|O01OC070|estático\especial\|
+~C|O01OC080|h.|Especialista en fungicidas|18.08|140420|1|
+~A|O01OC080|especial\fungicida\|
+~C|O01OC090|h.|Especialista en prótesis madera|18.64|140420|1|
+~A|O01OC090|prótesis\madero\especial\|
+~C|O01OC100|h.|Especialista en lampistería|17.21|140420|1|
+~A|O01OC100|especial\|
+~C|O01OC110|h.|Especialista en inyecciones|18.74|140420|1|
+~A|O01OC110|inyección\especial\|
+~C|O01OC115|h.|Especialista en gunitado|18.97|140420|1|
+~A|O01OC115|gunitado\especial\|
+~C|O01OC120|h.|Especialista en anclajes|18.74|140420|1|
+~A|O01OC120|anclaje\especial\|
+~C|O01OC125|h.|Especialista en cortes mecanizados|18.97|140420|1|
+~A|O01OC125|corte\especial\mecanismo\|
+~C|O01OC130|h.|Especialista preparación resinas|18.74|140420|1|
+~A|O01OC130|preparación\resina\especial\|
+~C|O01OC140|h.|Especialista en vitrales|18.74|140420|1|
+~A|O01OC140|especial\|
+~C|O01OC150|h.|Ayudante especialista vitrales|16.72|140420|1|
+~A|O01OC150|ayudante\especial\|
+~C|O01OC160|h.|Especialista restaurador fachada|18.74|140420|1|
+~A|O01OC160|especial\fachada\|
+~C|O01OC170|h.|Especialista en reproducciones|18.74|140420|1|
+~A|O01OC170|especial\|
+~C|O01OC175|h.|Especialista reintegraciones e injertos|18.74|140420|1|
+~A|O01OC175|especial\|
+~C|O01OC180|h.|Especialista restaurador|33.38|140420|1|
+~A|O01OC180|especial\|
+~C|O01OC190|h.|Especialista restaurador retablo|33.38|140420|1|
+~A|O01OC190|especial\|
+~C|O01OC200|h.|Escultor madera, barro, escayola etc.|33.38|140420|1|
+~A|O01OC200|escayola\madero\|
+~C|O01OC205|h.|Modelador|18.74|140420|1|
+~C|O01OC210|h.|Especialista carpintero-ebanista|18.08|140420|1|
+~A|O01OC210|especial\|
+~C|O01OC220|h.|Restaurador de artesonados|18.59|140420|1|
+~A|O01OC220|artesonado\|
+~C|O01OC230|h.|Especialista restaurador pintura|33.38|140420|1|
+~A|O01OC230|especial\pintura\|
+~C|O01OC240|h.|Especialista en proyección calor|18.74|140420|1|
+~A|O01OC240|especial\proyección\calor\|
+~C|O01OC250|h.|Especialista láser artlight|18.74|140420|1|
+~A|O01OC250|especial\|
+~C|O01OC260|h.|Especialista en gommage|18.74|140420|1|
+~A|O01OC260|especial\|
+~C|O01OC270|h.|Arqueólogo|35.83|140420|1|
+~C|O01OC275|h.|Ayudante de Arqueólogo|24.43|140420|1|
+~A|O01OC275|ayudante\|
+~C|O01OC280|h.|Restaurador de piedra|17.31|140420|1|
+~A|O01OC280|piedra\|
+~C|O01OC290|h.|Paleontólogo|34.27|140420|1|
+~C|O01OC300|h.|Especialista en pátinas|18.08|140420|1|
+~A|O01OC300|especial\|
+~C|O01OC310|h.|Tit. Sup. Gestor ambiental|51.94|140420|1|
+~A|O01OC310|ambiente\|
+~C|O01OC320|h.|Auditor ambiental|29.31|140420|1|
+~A|O01OC320|ambiente\|
+~C|O01OC350|h.|Técnico esp. medición y estudio ruido|30.21|020720|1|
+~A|O01OC350|medición\ruido\especial\|
+~C|O01OC360|h.|Ingeniero Técnico|30.47|140420|1|
+~C|O01OC370|h.|Geólogo|52.37|140420|1|
+~C|O01OC380|h.|Biólogo|50.47|140420|1|
+~C|O01OC390|h.|Especialista solador tarimas|18.74|140420|1|
+~A|O01OC390|tarima\especial\|
+~C|O01OC400|h.|Metalista|18.74|140420|1|
+~C|O01OC410|h.|Maestro Tornero|18.74|140420|1|
+~C|O01OC420|h.|Especialista fundidor|18.74|140420|1|
+~A|O01OC420|especial\|
+~C|O01OC430|h.|Técnico cualificado en auscultación|18.81|140420|1|
+~A|O01OC430|cualificado\|
+~C|O01OC435|h.|Ayudante cualificado en auscultación|17.12|140420|1|
+~A|O01OC435|cualificado\ayudante\|
+~C|O01OC440|h.|Ingeniero cualificado en auscultación|50.56|140420|1|
+~A|O01OC440|cualificado\|
+~C|O01OC500|h.|Conductor 1ª vialidad invernal|22.61|140420|1|
+~A|O01OC500|conductor\|
+~C|O01OC510|h.|Ayudante conductor vialidad inv.|24.43|140420|1|
+~A|O01OC510|conductor\ayudante\|

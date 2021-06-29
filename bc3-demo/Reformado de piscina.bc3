@@ -1,0 +1,72 @@
+~V|Ynext SPA|FIEBDC-3/2012|Odoo13.0||ANSI|
+~K|\2\2\3\2\2\2\2\EUR\|0|
+~C|A#||Desmontados|0.00|30062020|0|
+~D|A#|R03RA020\1\86.000\R03RS110\1\260.000\|
+~C|R03RA020|M2/1MM|PICADO DE ALICATADO DE AZULEJO|9.04|30062020|0|
+~D|R03RA020#|O01OA070\1\0.550\|
+~C|O01OA070|Horas|Peón ordinario|13.22|30062020|1|
+~T|R03RA020|Demolición de alicatado de azulejos, a mano, con retirada de escombros, sin incluir transporte a vertedero.|
+~M|A#\R03RA020|1\2\|86|\Piscina\86\0\0\0\|
+~C|R03RS110|M2/1MM|DEMOLICIÓN DE PAVIMENTOS EXTERIORES|7.40|30062020|0|
+~D|R03RS110#|O01OA070\1\0.450\|
+~T|R03RS110|Demolición de pavimentos exteriores, realizada a mano, retirada de escombros y carga, sin incluir transporte a vertedero, según NTE/ADD-10.|
+~M|A#\R03RS110|1\11\|260|\Zona de playa\260\0\0\0\|
+~C|B#||alicatado|0.00|30062020|0|
+~D|B#|U17SR030\1\86.000\|
+~C|U17SR030|M2/1MM|REVESTIMIENTO VÍTREO|29.66|30062020|0|
+~D|U17SR030#|O01OA090\1\0.330\P30IR040\1\1.000\P30PW110\1\1.000\A01A080\1\0.005\A01L080\1\0.001\|
+~C|O01OA090|Horas|Cuadrilla A|42.67|30062020|0|
+~D|O01OA090#|O01OA030\1\1.000\O01OA050\1\1.000\O01OA070\1\0.500\O01OA070\1\0.500\O01OA070\1\0.500\O01OA070\1\0.500\|
+~C|O01OA030|Horas|Oficial primera|14.13|30062020|1|
+~C|O01OA050|Horas|Ayudante|13.47|30062020|1|
+~C|P30IR040|M2/1MM|Revestimiento vitraico 22x22|9.93|30062020|3|
+~C|P30PW110|Unidades|Piezas especiales, mat. complem.|0.64|30062020|3|
+~C|A01A080|m3|PASTA CEMENTO BLANCO BL-II/A-L 42,5 R|251.05|30062020|0|
+~D|A01A080#|O01OA070\1\2.500\P01CC140\1\1.350\P01DW050\1\0.510\|
+~C|P01CC140||Cemento blanco BL-II/A-L 42,5 R sacos|115.38|30062020|3|
+~C|P01DW050|m3|Agua|0.53|30062020|3|
+~T|A01A080|Pasta de cemento blanco BL-II/A-L 42,5 R, amasado a mano, s/RC-03.|
+~C|A01L080|m3|LECHADA CEM. BLANCO BL-II/A-L 42,5 R|111.15|30062020|0|
+~D|A01L080#|O01OA070\1\2.000\P01CC140\1\0.500\P01DW050\1\0.900\|
+~T|A01L080|Lechada de cemento blanco BL-II/A-L 42,5 R , amasado a mano, s/RC-03.|
+~T|U17SR030|Revestimiento vítreo (gresite) en vasos de piscinas, formado por paneles de 354x354 mm. y 256 baldosas de 22x22 mm., en color a elegir, recibidas con pegamento especial, incluso limpieza, enlechado con cemento blanco BL-II 42,5R, formación de ángulos y marcaje de calles en distinta tonalidad, colocado.|
+~M|B#\U17SR030|1\3\|86|\Piscina\86\0\0\0\|
+~C|C#||Pavimentos|0.00|30062020|0|
+~D|C#|E11CTB020\1\260.000\|
+~C|E11CTB020|M2/1MM|Sol.terrazo micrograno 40x40 c/claro|21.26|30062020|0|
+~D|E11CTB020#|O01OB090\1\0.300\O01OA070\1\0.300\P08TB020\1\1.050\A02A140\1\0.025\P01AA020\1\0.020\A01L090\1\0.001\P01CC120\1\0.001\|
+~C|O01OB090|Horas|Oficial solador, alicatador|11.97|30062020|1|
+~C|P08TB020|M2/1MM|Baldosa terrazo 40x40 micrograno|7.70|30062020|3|
+~C|A02A140|m3|Mortero cemento 1/6 m-40 c/a.miga|59.20|30062020|0|
+~D|A02A140#|O01OA070\1\1.700\P01CC020\1\0.250\P01AA060\1\1.100\P01DW050\1\0.255\M03HH020\1\0.400\|
+~C|P01CC020||Cemento cem ii/b-p 32,5 n sacos|70.75|30062020|3|
+~C|P01AA060|m3|Arena de miga cribada|8.24|30062020|3|
+~C|M03HH020|Horas|Hormigonera 200 l. gasolina|1.44|30062020|2|
+~C|P01AA020|m3|Arena de río 0/6 mm.|11.67|30062020|3|
+~C|A01L090|m3|Lechada cem. blanco bl 22,5 x|96.74|30062020|0|
+~D|A01L090#|O01OA070\1\2.000\P01CC120\1\0.500\P01DW050\1\0.900\|
+~C|P01CC120||Cemento blanco bl 22,5 x sacos|103.92|30062020|3|
+~T|E11CTB020|Solado de terrazo 40x40 cm. micrograno, colores claros, pulido en fábrica, para uso normal s/n UNE 127020, recibido con mortero de cemento CEM II/B-P 32,5 N y arena de miga 1/6, i/cama de arena de 2 cm. de espesor, rejuntado con lechada de cemento blanco BL 22,5 X y limpieza, s/NTE-RSR-6 y NTE-RSR-26, medido en superficie realmente ejecutada.|
+~M|C#\E11CTB020|1\8\|260|\Zona de playa\260\0\0\0\|
+~C|D#||Colocación equipos|0.00|30062020|0|
+~D|D#|U17SE080\1\2.000\U17SD070\1\30.000\U17SE120\1\4.000\|
+~C|U17SE080|Unidades|ESCALERA|240.71|30062020|0|
+~D|U17SE080#|O01OA090\1\1.000\P30IE090\1\1.000\P30IE160\1\2.000\|
+~C|P30IE090|Unidades|Escalera 4 peldaños a.inox.|142.82|30062020|3|
+~C|P30IE160|Unidades|Mortero expansivo|2.18|30062020|3|
+~T|U17SE080|Escalera en acero inoxidable con tubo de diámetro 43 mm., con topes de goma, 4 peldaños, anclajes en acero inoxidable, embellecedores, recibido de anclajes, montaje y colocación.|
+~M|D#\U17SE080|1\8\|2|\Piscina\2\0\0\0\|
+~C|U17SD070|MT|REJILLA  245 mm. ANCHO|29.47|30062020|0|
+~D|U17SD070#|O01OA070\1\0.050\O01OA070\1\0.050\O01OA070\1\0.050\O01OA070\1\0.050\P30IP090\1\1.000\P30PW110\1\1.000\|
+~C|P30IP090|MT|Rejilla mat. plástico 245  mm.|20.66|30062020|3|
+~T|U17SD070|Rejilla para canal de rebosadero tipo Munich, con textura antideslizante, en material plástico con un ancho de 200 mm., ensamblada entre sí, con dispositivo de unión articulado y remates de esquina, incluso montaje y colocación.|
+~M|D#\U17SD070|1\9\|30|\Zona de playa\30\0\0\0\|
+~C|U17SE120|MCUB|Proyector subacuatico LED|131.93|30062020|0|
+~D|U17SE120#|003W\1\1.000\O0015\1\0.540\O0010\1\0.400\|
+~C|003W|Unidades|proyector sub acuático|77.66|30062020|3|
+~C|O0015|Unidades|Oficial 1ª electricista|14.79|30062020|1|
+~C|O0010|Unidades|Ayudante electricista|13.53|30062020|1|
+~T|U17SE120|Proyector de luz multicolor, de plástico, de color blanco, de 3 W de potencia, 36 led, alimentación a 12 Vcc, protección IP675, para piscina de vaso de hormigón, con fijación mediante cruz, tacos y tornillos. Incluso accesorios, sujeciones y material auxiliar. Totalmente montado, conexionado y comprobado.|
+~M|D#\U17SE120|1\12\|4|\Piscina\4\0\0\0\|
+~C|Reformado_de_piscina##|||10462.48|30062020|0|
+~D|Reformado de piscina##|A\1\1\B\1\1\C\1\1\D\1\1\|
