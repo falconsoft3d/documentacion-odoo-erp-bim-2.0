@@ -18,8 +18,9 @@ Odoo para empresas de construcción.
 15. Importar presupuesto desde BC3: https://www.youtube.com/watch?v=e72pLULlg0M&t=1s
 16. Crear presupuesto desde Excel plantilla de presto: https://www.youtube.com/watch?v=xwyCdNXhfxE
 17. Incidencias en la importación de presupuestos: https://www.youtube.com/watch?v=UzTvEZVIR-U
-18. Crear presupuesto desde Excel plantilla 1000: https://www.youtube.com/watch?v=NdKtXw5JzWE
-19. Crear presupuesto desde Excel plantilla 2000 a nivel de Recursos: https://www.youtube.com/watch?v=MnI_tYrVm2w
+18. Rectificación de productos https://www.youtube.com/watch?v=8OTGMArrgrc&t=3s
+19. Crear presupuesto desde Excel plantilla 1000: https://www.youtube.com/watch?v=NdKtXw5JzWE
+20. Crear presupuesto desde Excel plantilla 2000 a nivel de Recursos: https://www.youtube.com/watch?v=MnI_tYrVm2w
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
