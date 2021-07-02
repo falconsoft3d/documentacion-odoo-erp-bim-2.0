@@ -24,6 +24,7 @@ Odoo para empresas de construcción.
 21. Lista de Costes: https://www.youtube.com/watch?v=Jo_fM4CstV0
 22. Aplicar conceptos desde base de datos: https://www.youtube.com/watch?v=Ze3FC2bqJ4I
 23. Vista del Arbol: https://www.youtube.com/watch?v=FoDW_kZlTuo
+24. Crear lista de chequeo: https://www.youtube.com/watch?v=8ywW7DmCwIw&t=125s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
