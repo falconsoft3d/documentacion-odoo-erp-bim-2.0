@@ -26,6 +26,7 @@ Odoo para empresas de construcción.
 23. Vista del Arbol: https://www.youtube.com/watch?v=FoDW_kZlTuo
 24. Crear lista de chequeo: https://www.youtube.com/watch?v=8ywW7DmCwIw&t=125s
 25. Ajuste de Presupuesto: https://www.youtube.com/watch?v=5XbEdyhDQok
+26. Actualizar Precios: https://www.youtube.com/watch?v=isdUgkkgh7w
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
