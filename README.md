@@ -28,6 +28,7 @@ Odoo para empresas de construcción.
 25. Ajuste de Presupuesto: https://www.youtube.com/watch?v=5XbEdyhDQok
 26. Actualizar Precios: https://www.youtube.com/watch?v=isdUgkkgh7w
 27. Comparar presupuestos: https://www.youtube.com/watch?v=scnyp0HcM_E
+28. Precios acordados: https://www.youtube.com/watch?v=0bTG7Ad7N2A
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
