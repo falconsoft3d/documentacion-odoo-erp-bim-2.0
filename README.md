@@ -36,6 +36,7 @@ Odoo para empresas de construcción.
 33. Tipos de precios para trabajar en BIM: https://www.youtube.com/watch?v=7SY7_hUmsJk
 34. Informes de presupuestos: https://www.youtube.com/watch?v=c6Hf3KgwQqA
 35. Enviar correo: https://www.youtube.com/watch?v=nBrHivRS9D0
+36. Informes de recursos BIM: https://www.youtube.com/watch?v=Nqnw4JGh-rw
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
