@@ -30,6 +30,8 @@ Odoo para empresas de construcción.
 27. Comparar presupuestos: https://www.youtube.com/watch?v=scnyp0HcM_E
 28. Precios acordados: https://www.youtube.com/watch?v=0bTG7Ad7N2A
 29. Haberes y descuentos: https://www.youtube.com/watch?v=UTu6LNvOrhU
+30. Índices técnicos económicos: https://youtu.be/hPCVUIVVBpg
+31. Notas: https://www.youtube.com/watch?v=Bw9T12V6r4c
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
