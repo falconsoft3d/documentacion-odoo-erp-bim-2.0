@@ -42,6 +42,7 @@ Odoo para empresas de construcción.
 39. Certificación Manual de Obra: https://www.youtube.com/watch?v=iW_Fc_EVvoE
 40. Certificación por Mediciones de Obra: https://www.youtube.com/watch?v=zeGVgEqjEUU&t=4s
 41. Certificación por Etapas de Obra: https://www.youtube.com/watch?v=owOxcbJ0waw
+42. Certificación Masiva por Partidas: https://www.youtube.com/watch?v=mKTZwTa9x9E
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
