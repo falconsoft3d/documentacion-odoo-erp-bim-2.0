@@ -46,6 +46,7 @@ Odoo para empresas de construcción.
 43. Certificación Masiva por Capítulos: https://www.youtube.com/watch?v=-KiHF577qQs
 44. Estados de las lista de chequeos: https://www.youtube.com/watch?v=9gabUUZQcLw&t=1s
 45. Diseñar un Plan General de Calidad de Obras: https://www.youtube.com/watch?v=UMZyRPxMqCY
+46. Informes de certificación: https://www.youtube.com/watch?v=hGeD4KolWR0&t=2s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
