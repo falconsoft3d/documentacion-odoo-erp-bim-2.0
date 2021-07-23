@@ -48,6 +48,11 @@ Odoo para empresas de construcción.
 45. Diseñar un Plan General de Calidad de Obras: https://www.youtube.com/watch?v=UMZyRPxMqCY
 46. Informes de certificación: https://www.youtube.com/watch?v=hGeD4KolWR0&t=2s
 47. Crear estados de pagos: https://www.youtube.com/watch?v=dsISt02-qGs
+48. Registro de ventas en Obras: https://www.youtube.com/watch?v=TE0W6nNjS-A&t=63s
+49. Registro de costos reales: https://www.youtube.com/watch?v=ABZuKUIkhWY
+50. Configuración de registro de costos: https://www.youtube.com/watch?v=ki-IO1ZJtPY
+51. Partes de obras: https://www.youtube.com/watch?v=BTsw1YQWiJk&t=2s
+52. Salidas de materiales desde partidas: https://www.youtube.com/watch?v=DNpIUQKheW8
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
