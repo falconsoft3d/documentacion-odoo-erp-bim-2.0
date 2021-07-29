@@ -55,6 +55,7 @@ Odoo para empresas de construcción.
 52. Salidas de materiales desde Partidas: https://www.youtube.com/watch?v=DNpIUQKheW8
 53. Salidas de materiales desde Obra: https://www.youtube.com/watch?v=4Ot_9rmuudo&t=5s
 54. Registrar asistencias desde módulo de Empleados: https://www.youtube.com/watch?v=1h93ecuWpx4&t=3s
+55. Registro de asistencia desde el módulo asistencias. https://www.youtube.com/watch?v=g2yXCPwg6wo&t=3s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
