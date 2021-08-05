@@ -63,6 +63,7 @@ Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de 
 60. Informe comparativo a nivel de presupuesto: https://www.youtube.com/watch?v=7ma2mnzRqkc&t=6s
 61. Informe de costos a nivel de obras: https://www.youtube.com/watch?v=435uPcjMpKs
 62. Exportar programación de Obra a Project: https://www.youtube.com/watch?v=lZSG7twKCuA
+63. Importar programación de Obra desde Project: https://www.youtube.com/watch?v=iHGTvMoM9I8
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
