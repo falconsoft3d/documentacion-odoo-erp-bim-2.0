@@ -66,6 +66,7 @@ Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de 
 63. Importar programación de Obra desde Project: https://www.youtube.com/watch?v=iHGTvMoM9I8
 64. Edición masiva de estados y tipos de presupuestos: https://www.youtube.com/watch?v=UiWF4cwhC5I&t=1s
 65. Solicitud de materiales desde obras: https://www.youtube.com/watch?v=GFh6-rGRDLQ
+66. Solicitud de materiales desde un espacio: https://www.youtube.com/watch?v=duXhJ8EQsHo&t=3s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
