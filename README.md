@@ -70,6 +70,7 @@ Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de 
 67. Solicitud de materiales desde obras: https://www.youtube.com/watch?v=DmayWak0O5o
 68. Limite de certificación: https://www.youtube.com/watch?v=DLL3ut7VGNY
 69. Certificacion masiva limites: https://www.youtube.com/watch?v=vF9IA7jOvkU
+70. Certificación masiva del presupuesto: https://www.youtube.com/watch?v=IBWnZENqfYw&t=3s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
