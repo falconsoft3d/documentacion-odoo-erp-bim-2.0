@@ -75,6 +75,8 @@ Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de 
 72. Departamento: https://www.youtube.com/watch?v=s3haPMhImKc
 73. Retención de obras: https://www.youtube.com/watch?v=s5uzZUdetwY&t=2s
 74. Prioridad de obras: https://www.youtube.com/watch?v=1MEYOMQ0fI4&t=21s
+75. Fórmulas https://www.youtube.com/watch?v=g6CypUx9oqw&t=16s
+76. Almacen móvil o Bodega móvil: https://www.youtube.com/watch?v=XMLlLBENdRg
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
