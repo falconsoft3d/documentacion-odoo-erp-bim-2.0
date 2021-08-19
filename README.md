@@ -91,6 +91,8 @@ Marlon Falcón Hernández | España | Valencia
 76. Almacen móvil o Bodega móvil: https://www.youtube.com/watch?v=XMLlLBENdRg
 77. Copiar y Pegar entre Presupuestos: https://www.youtube.com/watch?v=Xa5gUjGLjbM&t=3s
 78. Documentos de Obras: https://www.youtube.com/watch?v=15RCKHlYPxo
+79. Vista margen y beneficio: https://www.youtube.com/watch?v=2mdp1beo7d0&t=2s
+80. Copiar Mediciones: https://www.youtube.com/watch?v=Sfj3_WYBRv4
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
