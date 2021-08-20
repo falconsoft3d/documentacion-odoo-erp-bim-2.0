@@ -93,6 +93,7 @@ Marlon Falcón Hernández | España | Valencia
 78. Documentos de Obras: https://www.youtube.com/watch?v=15RCKHlYPxo
 79. Vista margen y beneficio: https://www.youtube.com/watch?v=2mdp1beo7d0&t=2s
 80. Copiar Mediciones: https://www.youtube.com/watch?v=Sfj3_WYBRv4
+81. Atajos para Trabajar en la vista Árbol: https://www.youtube.com/watch?v=VQ-MNqvVr0A
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
