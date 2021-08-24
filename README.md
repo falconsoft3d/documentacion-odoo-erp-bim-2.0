@@ -95,6 +95,10 @@ Marlon Falcón Hernández | España | Valencia
 80. Copiar Mediciones: https://www.youtube.com/watch?v=Sfj3_WYBRv4
 81. Atajos para Trabajar en la vista Árbol: https://www.youtube.com/watch?v=VQ-MNqvVr0A
 82. Unidades de medidas en el Presupuesto: https://www.youtube.com/watch?v=DXbxATnCbGA&t=1s
+83. Importar partida desde Capitulo o Partida: https://www.youtube.com/watch?v=EzWsjXdjUcU
+84. Análisis de Importe x m2: https://www.youtube.com/watch?v=e4O1kwv9NQo
+85. Imagenes a las obras: https://www.youtube.com/watch?v=K5jglR8-fQg
+86. Cómo gestionar estados de pagos cuando existan facturas canceladas: https://www.youtube.com/watch?v=1QNeQfHBF2s&t=1s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
