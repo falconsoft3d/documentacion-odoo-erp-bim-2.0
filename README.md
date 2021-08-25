@@ -99,6 +99,7 @@ Marlon Falcón Hernández | España | Valencia
 84. Análisis de Importe x m2: https://www.youtube.com/watch?v=e4O1kwv9NQo
 85. Imagenes a las obras: https://www.youtube.com/watch?v=K5jglR8-fQg
 86. Cómo gestionar estados de pagos cuando existan facturas canceladas: https://www.youtube.com/watch?v=1QNeQfHBF2s&t=1s
+87. Importar desde Project: https://www.youtube.com/watch?v=sKdjEfKrW9U&t=1s
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
