@@ -101,6 +101,8 @@ Marlon Falcón Hernández | España | Valencia
 86. Cómo gestionar estados de pagos cuando existan facturas canceladas: https://www.youtube.com/watch?v=1QNeQfHBF2s&t=1s
 87. Importar desde Project: https://www.youtube.com/watch?v=sKdjEfKrW9U&t=1s
 88. Análisis por el método del valor ganado: https://www.youtube.com/watch?v=Hxl04ui6aKc&t=1s
+89. Programación dentro de BIM. Odoo ERP para Construcción: https://www.youtube.com/watch?v=Ym8kvoeJvHA&t=5s
+90. Gestionar registro de Facturas en las obras: https://www.youtube.com/watch?v=gaXTAINxnxo
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
