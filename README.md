@@ -103,6 +103,8 @@ Marlon Falcón Hernández | España | Valencia
 88. Análisis por el método del valor ganado: https://www.youtube.com/watch?v=Hxl04ui6aKc&t=1s
 89. Programación dentro de BIM. Odoo ERP para Construcción: https://www.youtube.com/watch?v=Ym8kvoeJvHA&t=5s
 90. Gestionar registro de Facturas en las obras: https://www.youtube.com/watch?v=gaXTAINxnxo
+91. Importar presupuestos desde project incluyendo avances de obras: https://www.youtube.com/watch?v=eQ3qO7dq15c
+
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
