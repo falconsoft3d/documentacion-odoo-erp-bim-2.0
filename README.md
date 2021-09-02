@@ -104,6 +104,9 @@ Marlon Falcón Hernández | España | Valencia
 89. Programación dentro de BIM. Odoo ERP para Construcción: https://www.youtube.com/watch?v=Ym8kvoeJvHA&t=5s
 90. Gestionar registro de Facturas en las obras: https://www.youtube.com/watch?v=gaXTAINxnxo
 91. Importar presupuestos desde project incluyendo avances de obras: https://www.youtube.com/watch?v=eQ3qO7dq15c
+92. Importar archivo BIM desde Revit a Odoo. ERP para Construcción: https://www.youtube.com/watch?v=sujo-oi8cAE&t=24s
+93. Importar saldos de apertura en Odoo BIM 2.0. ERP para Construcción. https://www.youtube.com/watch?v=mAU44uwfJe8
+ 
 
 
 # Manual de BIM 2.0 Odoo 14
