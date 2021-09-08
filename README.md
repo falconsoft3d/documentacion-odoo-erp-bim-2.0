@@ -109,7 +109,7 @@ Marlon Falcón Hernández | España | Valencia
 94. Proyección de costes según método del valor ganado: https://www.youtube.com/watch?v=KDTkhqNtMTkç
 95. Liquidar stock en obra terminada en Odoo: https://www.youtube.com/watch?v=gf3TzC3Fl2c
 96. Resultados por el método del valor Ganado: https://www.youtube.com/watch?v=mz6bOKUu5tY&t=2s
-
+97.  Importar avances de obras desde Microsoft Project: https://www.youtube.com/watch?v=XjZl68454ok
 
  
 
