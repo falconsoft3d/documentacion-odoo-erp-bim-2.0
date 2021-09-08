@@ -106,6 +106,8 @@ Marlon Falcón Hernández | España | Valencia
 91. Importar presupuestos desde project incluyendo avances de obras: https://www.youtube.com/watch?v=eQ3qO7dq15c
 92. Importar archivo BIM desde Revit a Odoo. ERP para Construcción: https://www.youtube.com/watch?v=sujo-oi8cAE&t=24s
 93. Importar saldos de apertura en Odoo BIM 2.0. ERP para Construcción. https://www.youtube.com/watch?v=mAU44uwfJe8
+94. Clase 94. Proyección de costes según método del valor ganado: https://www.youtube.com/watch?v=KDTkhqNtMTk
+
  
 
 
