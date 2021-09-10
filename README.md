@@ -111,6 +111,7 @@ Marlon Falcón Hernández | España | Valencia
 96. Resultados por el método del valor Ganado: https://www.youtube.com/watch?v=mz6bOKUu5tY&t=2s
 97. Importar avances de obras desde Microsoft Project: https://www.youtube.com/watch?v=XjZl68454ok
 98. Análisis de métodos de proyección en Presupuestos de Construcción: https://www.youtube.com/watch?v=uJXJGP8dgOM
+99. Haberes y descuentos en Factura con IVA: https://www.youtube.com/watch?v=BOG9HNX6Md8
  
 
 
