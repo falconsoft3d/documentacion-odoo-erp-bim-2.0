@@ -112,6 +112,7 @@ Marlon Falcón Hernández | España | Valencia
 97. Importar avances de obras desde Microsoft Project: https://www.youtube.com/watch?v=XjZl68454ok
 98. Análisis de métodos de proyección en Presupuestos de Construcción: https://www.youtube.com/watch?v=uJXJGP8dgOM
 99. Haberes y descuentos en Factura con IVA: https://www.youtube.com/watch?v=BOG9HNX6Md8
+100. Exportar datos desde la vista formularios a Excel: https://www.youtube.com/watch?v=WmcN_1y_sa8
  
 
 
