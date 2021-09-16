@@ -44,7 +44,7 @@ Marlon Falcón Hernández | España | Valencia
 29. Haberes y descuentos: https://www.youtube.com/watch?v=UTu6LNvOrhU
 30. Índices técnicos económicos: https://youtu.be/hPCVUIVVBpg
 31. Notas: https://www.youtube.com/watch?v=Bw9T12V6r4c
-32. Herramientas Convertir partidas a cero: https://www.youtube.com/watch?v=7SY7_hUmsJk
+32. Herramientas Convertir partidas a cero: https://www.youtube.com/watch?v=bqmf_88UpYc
 33. Tipos de precios para trabajar en BIM: https://www.youtube.com/watch?v=7SY7_hUmsJk
 34. Informes de presupuestos: https://www.youtube.com/watch?v=c6Hf3KgwQqA
 35. Enviar correo: https://www.youtube.com/watch?v=nBrHivRS9D0
