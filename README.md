@@ -114,6 +114,8 @@ Marlon Falcón Hernández | España | Valencia
 99. Haberes y descuentos en Factura con IVA: https://www.youtube.com/watch?v=BOG9HNX6Md8
 100. Exportar datos desde la vista formularios a Excel: https://www.youtube.com/watch?v=WmcN_1y_sa8
 101. Permisos de usuarios: https://www.youtube.com/watch?v=eMj3SqSVqxQ
+102. Atajo para informe de costes: https://www.youtube.com/watch?v=vEz2S3RAw84&t=2s
+103. Informe detallado de costes: https://www.youtube.com/watch?v=aFMbLPRSTjc
  
 
 
