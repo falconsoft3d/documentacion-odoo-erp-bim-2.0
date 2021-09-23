@@ -116,6 +116,7 @@ Marlon Falcón Hernández | España | Valencia
 101. Permisos de usuarios: https://www.youtube.com/watch?v=eMj3SqSVqxQ
 102. Atajo para informe de costes: https://www.youtube.com/watch?v=vEz2S3RAw84&t=2s
 103. Informe detallado de costes: https://www.youtube.com/watch?v=aFMbLPRSTjc
+104. Informe comparativo de costes a nivel de recursos: https://www.youtube.com/watch?v=j1TxHOPpspM
  
 
 
