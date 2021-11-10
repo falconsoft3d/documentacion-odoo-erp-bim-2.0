@@ -119,6 +119,7 @@ Marlon Falcón Hernández | España | Valencia
 104. Informe comparativo de costes a nivel de recursos: https://www.youtube.com/watch?v=j1TxHOPpspM
 105. Análisis de costes a nivel de obras: https://www.youtube.com/watch?v=OXL4YP8tXY8
 106. Registro de obras de construcción en asistencias: https://www.youtube.com/watch?v=DuUE5GbP5No
+107. Ticket de soporte de Obra: https://www.youtube.com/watch?v=h-uE-Cn8GAo
 
 
 # Manual de BIM 2.0 Odoo 14
