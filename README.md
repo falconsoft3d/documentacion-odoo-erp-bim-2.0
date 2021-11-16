@@ -125,15 +125,3 @@ Marlon Falcón Hernández | España | Valencia
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
 
-# Presentaciones
-1. https://docs.google.com/presentation/d/1HJMDA5ROQaoSlAPyoTXAwzOvuXY_KsbPcxaUtERBziI
-2. https://docs.google.com/presentation/d/1QKWQJG3MYbvzTiJqh5fPgUAuUNIeKBuTzlb3Us18imk
-3. https://docs.google.com/presentation/d/1oLFfBpf7jgc9CXe23bEGhhzg7ahzxBVrtz0qGwKy128
-4. https://docs.google.com/presentation/d/1UIWI7PTpPH8jeAzFG6ccb962qKiuYjqqTp1JF9D6EZo
-5. https://docs.google.com/presentation/d/1RdUgI5WzoaWkyK5G1NPN8BhY7n0yqhRZ_wdmoSV-Gi4
-6. https://docs.google.com/presentation/d/1ID8dfhx79Uvklaa_rmiHTBTyomVWmzOeuls5yZ6CF_s
-7. https://docs.google.com/presentation/d/1hMe_Op4qsEUSNZE5Ob3Nyrqv8SDUh_49AUpHwzj-b1k
-8. https://docs.google.com/presentation/d/1m8dFW_WKbvYMKzh8srYWytvcnoWYs5UvOX5d_Pf9DTY
-9. https://docs.google.com/presentation/d/1daP8y1rIEPplDK1dyws0-5jFXTUbA-UmqBQMRRMG_OQ
-
-
