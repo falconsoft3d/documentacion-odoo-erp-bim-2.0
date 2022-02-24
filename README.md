@@ -121,6 +121,7 @@ Marlon Falcón Hernández | España | Valencia
 106. Registro de obras de construcción en asistencias: https://www.youtube.com/watch?v=DuUE5GbP5No
 107. Ticket de soporte de Obra: https://www.youtube.com/watch?v=h-uE-Cn8GAo
 108. Como prestar servicios de postventa de una manera sencilla: https://www.youtube.com/watch?v=WpRa_cI9QrY
+109. Límite de las compras de servicios o productos almacenables: https://www.youtube.com/watch?v=M04vv_HRgag
 
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
