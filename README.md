@@ -124,6 +124,11 @@ Marlon Falcón Hernández | España | Valencia
 109. Límite de las compras de servicios o productos almacenables: https://www.youtube.com/watch?v=M04vv_HRgag
 110. Planificación de recursos por etapas: https://www.youtube.com/watch?v=O2LaEpdktmw
 
+113. Validar desde estado de presupuesto Registros de costes: https://www.youtube.com/watch?v=wEXDornd4NI
+
+116. Grupo o indice unificado para la construcción: https://www.youtube.com/watch?v=_M5VYCxBhYY&t=11s
+117. Cálculo de partidas o precios unitarios según rendimiento en construccíón: https://www.youtube.com/watch?v=5j2MauB93sQ&t
+
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
 
