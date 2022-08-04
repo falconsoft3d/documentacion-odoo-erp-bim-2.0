@@ -123,9 +123,7 @@ Marlon Falcón Hernández | España | Valencia
 108. Como prestar servicios de postventa de una manera sencilla: https://www.youtube.com/watch?v=WpRa_cI9QrY
 109. Límite de las compras de servicios o productos almacenables: https://www.youtube.com/watch?v=M04vv_HRgag
 110. Planificación de recursos por etapas: https://www.youtube.com/watch?v=O2LaEpdktmw
-
 113. Validar desde estado de presupuesto Registros de costes: https://www.youtube.com/watch?v=wEXDornd4NI
-
 116. Grupo o indice unificado para la construcción: https://www.youtube.com/watch?v=_M5VYCxBhYY&t=11s
 117. Cálculo de partidas o precios unitarios según rendimiento en construccíón: https://www.youtube.com/watch?v=5j2MauB93sQ&t
 
