@@ -134,6 +134,15 @@ Marlon Falcón Hernández | España | Valencia
 124. Permiso por etapas para la certificación de presupuestos: https://www.youtube.com/watch?v=m0sPOX7ZnvI&t=8s
 125. Organizar documentos de obra por especialidades: https://www.youtube.com/watch?v=9b8wD7xZOJ0
 
+141. Actualización de precios de recursos desde una base de datos en la nube. https://www.youtube.com/watch?v=medpG92WfXE
+142. Eliminar conceptos de un presupuesto masivamente en una obra de construcción. https://www.youtube.com/watch?v=JHdz1wpsDtg
+143. Clasificar por categorías los productos importados en un presupuesto. https://www.youtube.com/watch?v=RG4vB1B467U
+144. Registro de coste de herramientas a nivel de presupuestos. https://www.youtube.com/watch?v=KSkGRksF4cA&t=4s
+145. Validación de costes de herramientas y saldos de apertura en la construcción. https://www.youtube.com/watch?v=UhqciazGHXg
+146. Reporte de costos comparativo Incluir herramientas de construcción. https://www.youtube.com/watch?v=ezbBbTksbTs&t=8s
+148. Cuenta analítica para control de objetos de obras. https://www.youtube.com/watch?v=75CZEsrmJMw
+149. Permiso para modificar presupuestos de construcción. https://www.youtube.com/watch?v=Biqd2VB_nbI&t=2s
+
 # Manual de BIM 2.0 Odoo 14
 https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
 
