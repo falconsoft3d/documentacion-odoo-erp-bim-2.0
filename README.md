@@ -133,7 +133,6 @@ Marlon Falcón Hernández | España | Valencia
 123. Solicitud de servicios de construcción en base a una obra: https://www.youtube.com/watch?v=2wHHmy_hFSs&t=3s
 124. Permiso por etapas para la certificación de presupuestos: https://www.youtube.com/watch?v=m0sPOX7ZnvI&t=8s
 125. Organizar documentos de obra por especialidades: https://www.youtube.com/watch?v=9b8wD7xZOJ0
-
 141. Actualización de precios de recursos desde una base de datos en la nube. https://www.youtube.com/watch?v=medpG92WfXE
 142. Eliminar conceptos de un presupuesto masivamente en una obra de construcción. https://www.youtube.com/watch?v=JHdz1wpsDtg
 143. Clasificar por categorías los productos importados en un presupuesto. https://www.youtube.com/watch?v=RG4vB1B467U
