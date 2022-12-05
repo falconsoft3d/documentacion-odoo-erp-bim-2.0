@@ -1,6 +1,9 @@
 # Videos de BIM 2.0 Odoo 14
 Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de Obra
 
+# Web
+Link: https://www.bim20.com/
+
 # Manual de BIM 2.0 Odoo 14
 Manual: https://github.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/blob/main/manual/manual_odoo_bim_20.pdf
 
