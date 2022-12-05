@@ -1,6 +1,9 @@
 # Videos de BIM 2.0 Odoo 14
 Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de Obra
 
+# Manual de BIM 2.0 Odoo 14
+Manual: https://github.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/blob/main/manual/manual_odoo_bim_20.pdf
+
 # Mis datos de Contacto
 ```
 Marlon Falcón Hernández | España | Valencia
@@ -142,6 +145,6 @@ Marlon Falcón Hernández | España | Valencia
 148. Cuenta analítica para control de objetos de obras. https://www.youtube.com/watch?v=75CZEsrmJMw
 149. Permiso para modificar presupuestos de construcción. https://www.youtube.com/watch?v=Biqd2VB_nbI&t=2s
 
-# Manual de BIM 2.0 Odoo 14
-https://docs.google.com/document/d/1BGT9sqj8h7uSp962o7t9wlLFDiZ9UEtqgb80aRxowfM/edit?usp=sharing
+
+
 
