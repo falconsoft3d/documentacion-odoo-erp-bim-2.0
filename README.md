@@ -1,4 +1,4 @@
-# Videos de BIM 2.0 Odoo 14
+# Videos de BIM 2.0 Odoo 16
 Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de Obra
 
 # Web
