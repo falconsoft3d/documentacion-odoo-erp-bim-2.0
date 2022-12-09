@@ -16,6 +16,8 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 
 3- Ajustes generales 2 del módulo BIM 2.0 en Odoo 16: https://www.youtube.com/watch?v=eg369n_uPpI
 
+4- Ajustes generales 3: https://www.youtube.com/watch?v=8mjlOzeZ7Hc&t=1s
+
 
 # Mis datos de Contacto
 ```
