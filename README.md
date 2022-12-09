@@ -1,4 +1,30 @@
 # BIM 2.0
+Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o proyectos.
+- Presupuestos de Obra
+- Certificaciones de Avance.
+- Registro de Costes / Gastos.
+- Análisis de Coste / Beneficio.
+- Método del Valor Ganado
+- Precios Unitarios
+- Solicitudes de Mat. o Serv.
+- Estados de Pagos
+- Reportes Varios.
+- Importaciones.
+- Asistencias de Obra.
+- Alquiler de Equipos.
+- Integración con Projects.
+- Integración con BC3.
+- Integración con Excel.
+- Listas de Chequeos.
+- Plan de Calidad.
+- Documentación de Obras.
+- Tickets de Obras.
+- Gastos Indirectos.
+- Contrato de Obra.
+- ITE. Índices Ténicos Econ.
+- Fómula polinómicas.
+- Comparaciones de Presupuesto.
+
 ![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
 
 # Web
@@ -18,7 +44,7 @@ Marlon Falcón Hernández | España | Valencia
 ```
 
 # Videos de BIM 2.0 para Odoo ERP 16.
-Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o proyectos.
+
 
 1- Introducción al módulo para constructoras: https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
 
