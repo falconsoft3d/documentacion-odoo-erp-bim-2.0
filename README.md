@@ -11,6 +11,7 @@ Manual: https://github.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/blob/16.0
 Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o proyectos.
 
 1- Introducción al módulo para constructoras: https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
+2- Ajustes generales del módulo BIM 2.0 en Odoo 16: https://www.youtube.com/watch?v=KeFCFdKMa9M&t=1s
 
 
 # Mis datos de Contacto
