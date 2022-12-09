@@ -18,6 +18,8 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 
 4- Ajustes generales 3: https://www.youtube.com/watch?v=8mjlOzeZ7Hc&t=1s
 
+5- Crear almacen desde la obra: https://www.youtube.com/watch?v=TwM7XjvLdxE&t=2s
+
 
 # Mis datos de Contacto
 ```
