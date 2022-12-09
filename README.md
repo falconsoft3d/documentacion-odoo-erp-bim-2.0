@@ -20,6 +20,8 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 
 5- Crear almacen desde la obra: https://www.youtube.com/watch?v=TwM7XjvLdxE&t=2s
 
+6- Crear cuenta analítica.https://www.youtube.com/watch?v=wjOXZfp2G0k&t=1s
+
 
 # Mis datos de Contacto
 ```
