@@ -22,6 +22,8 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 
 6- Crear cuenta analítica.https://www.youtube.com/watch?v=wjOXZfp2G0k&t=1s
 
+7- Crear obra o proyecto desde un lead en el CRM: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
+
 
 # Mis datos de Contacto
 ```
