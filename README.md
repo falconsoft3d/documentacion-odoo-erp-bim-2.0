@@ -1,3 +1,6 @@
+# BIM 2.0
+![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
+
 # Videos de BIM 2.0 Odoo 16
 Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o proyectos.
 
