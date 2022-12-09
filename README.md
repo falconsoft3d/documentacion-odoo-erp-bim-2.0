@@ -1,5 +1,8 @@
 # BIM 2.0
 Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o proyectos.
+![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
+
+# Funciones actuales.
 - Presupuestos de Obra
 - Certificaciones de Avance.
 - Registro de Costes / Gastos.
@@ -24,8 +27,6 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 - ITE. Índices Ténicos Econ.
 - Fómula polinómicas.
 - Comparaciones de Presupuesto.
-
-![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
 
 # Web
 Link: https://www.bim20.com/
