@@ -8,9 +8,9 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 - Registro de Costes / Gastos.
 - Análisis de Coste / Beneficio.
 - Método del Valor Ganado
-- Precios Unitarios
-- Solicitudes de Mat. o Serv.
-- Estados de Pagos
+- Precios Unitarios.
+- Solicitudes de Materiales o Servicios.
+- Estados de Pagos.
 - Reportes Varios.
 - Importaciones.
 - Asistencias de Obra.
@@ -24,9 +24,9 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 - Tickets de Obras.
 - Gastos Indirectos.
 - Contrato de Obra.
-- ITE. Índices Ténicos Econ.
+- ITE. Índices Ténicos Económicos.
 - Fómula polinómicas.
-- Comparaciones de Presupuesto.
+- Comparaciones de Presupuestos.
 
 # Web
 Link: https://www.bim20.com/
