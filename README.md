@@ -61,6 +61,12 @@ Marlon Falcón Hernández | España | Valencia
 
 7- Crear obra o proyecto desde un lead en el CRM: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
 
+8- Crer Obra o proyecto de construcción: https://www.youtube.com/watch?v=07GfhJ99SIA&t=10s
+
+9- Gestión de estados de obras: https://www.youtube.com/watch?v=YztBMahy5Vw&t=1s
+
+
+
 
 
 
