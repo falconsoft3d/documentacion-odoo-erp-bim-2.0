@@ -65,6 +65,8 @@ Marlon Falcón Hernández | España | Valencia
 
 9- Gestión de estados de obras: https://www.youtube.com/watch?v=YztBMahy5Vw&t=1s
 
+10- Objetos de obras y espacios: https://www.youtube.com/watch?v=Uj1nFUQRnao
+
 
 
 
