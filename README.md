@@ -61,13 +61,25 @@ Marlon Falcón Hernández | España | Valencia
 
 7- Crear obra o proyecto desde un lead en el CRM: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
 
-8- Crer Obra o proyecto de construcción: https://www.youtube.com/watch?v=07GfhJ99SIA&t=10s
+8- Crer Obra o proyecto de construcción: https://www.youtube.com/watch?v=07GfhJ99SIA&t=1s
 
 9- Gestión de estados de obras: https://www.youtube.com/watch?v=YztBMahy5Vw&t=1s
 
 10- Objetos de obras y espacios: https://www.youtube.com/watch?v=Uj1nFUQRnao
 
 11- Formulario presupuestos de una proyecto de construcción: https://www.youtube.com/watch?v=ETDZyCJFXyk
+
+12- 
+
+13- Concepto tipo capítulos: https://www.youtube.com/watch?v=VIqcUApQkF8&t=1s
+
+14- Concepto tipo partidas: https://www.youtube.com/watch?v=e8lJUoUyC-8&t=1s
+
+15- Concepto tipo recursos: https://www.youtube.com/watch?v=fbU_y8kXAYk&t=7s
+
+16- 
+
+17- Función de copiar y pegar en presupuestos de construcción: https://www.youtube.com/watch?v=_o1SX2ueKU0
 
 
 
