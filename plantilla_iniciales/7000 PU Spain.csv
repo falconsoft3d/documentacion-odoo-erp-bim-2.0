@@ -1,0 +1,11 @@
+﻿code,group,sub_group,parent,type,name,url,provider,available,quantity,performance,hours_day,uom_id,price
+01001,01,001,,2,Excavacion manual en pozo para cimentaciones,,,,1,5.15,8,m3,
+O01OA070,,,01001,4,Peón ordinario,,,1,1.553,,,h,20.1
+01002,01,002,,2,Excavacion con medios mecanicos en pozo para cimentaciones,,,,1,23.53,8,m3,
+MAQ0115,,,01002,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.34,,,h,54.36
+O01OA070,,,01002,4,Peón ordinario,,,0.76,0.26,,,h,20.1
+01003,01,003,,2,Excavacion manual en zanja  para cimentaciones,,,,1,4.739336493,8,m3,
+O01OA070,,,01003,4,Peón ordinario,,,1,1.688,,,h,20.1
+01004,01,004,,2,Excavacion con medios mecanicos en zanja  para cimentaciones,,,,1,21.05,8,m3,
+MAQ0115,,,01004,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.38,,,h,54.36
+O01OA070,,,01004,4,Peón ordinario,,,0.66,0.25,,,h,20.1
