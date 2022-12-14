@@ -77,7 +77,7 @@ Marlon Falcón Hernández | España | Valencia
 
 15- Concepto tipo recursos: https://www.youtube.com/watch?v=fbU_y8kXAYk&t=7s
 
-16- 
+16- Crear presupuesto de un proyecto al alza: https://www.youtube.com/watch?v=ulj5Q6M8MWk
 
 17- Función de copiar y pegar en presupuestos de construcción: https://www.youtube.com/watch?v=_o1SX2ueKU0
 
