@@ -59,7 +59,7 @@ Marlon Falcón Hernández | España | Valencia
 
 6- Crear cuenta analítica.https://www.youtube.com/watch?v=wjOXZfp2G0k&t=1s
 
-7- Crear obra o proyecto desde un lead en el CRM: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
+7- Crear obra o proyecto desde un lead en el *CRM*: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
 
 8- Crer Obra o proyecto de construcción: https://www.youtube.com/watch?v=07GfhJ99SIA&t=1s
 
@@ -82,6 +82,8 @@ Marlon Falcón Hernández | España | Valencia
 17- Función de copiar y pegar en presupuestos de construcción: https://www.youtube.com/watch?v=_o1SX2ueKU0
 
 18- Crear presupuesto desde un archivo **BC3**: https://www.youtube.com/watch?v=A1ondhdYCg4&t=5s
+
+19- Crear presupuesto a partir de una plantilla. https://www.youtube.com/watch?v=F9xkJY1L8EM
 
 
 
