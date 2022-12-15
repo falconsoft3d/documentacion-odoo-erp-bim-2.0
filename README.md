@@ -81,6 +81,8 @@ Marlon Falcón Hernández | España | Valencia
 
 17- Función de copiar y pegar en presupuestos de construcción: https://www.youtube.com/watch?v=_o1SX2ueKU0
 
+18- Crear presupuesto desde un archivo **BC3**: https://www.youtube.com/watch?v=A1ondhdYCg4&t=5s
+
 
 
 
