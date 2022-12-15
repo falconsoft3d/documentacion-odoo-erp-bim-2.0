@@ -69,7 +69,7 @@ Marlon Falcón Hernández | España | Valencia
 
 11- Formulario presupuestos de una proyecto de construcción: https://www.youtube.com/watch?v=ETDZyCJFXyk
 
-12- 
+12- Función Otros Administrativos en presupuestos de construcción: https://www.youtube.com/watch?v=DUBVVC37r88
 
 13- Concepto tipo capítulos: https://www.youtube.com/watch?v=VIqcUApQkF8&t=1s
 
