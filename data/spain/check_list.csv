@@ -1,0 +1,9 @@
+﻿code,parent,type,description,type_line
+TMPCHK0001,,1,Pintura,
+,TMPCHK0001,2,Color uniforme,2
+,TMPCHK0001,2,"	Limpieza en los elementos",3
+,TMPCHK0001,2,Observaciones,4
+TMPCHK0002,,1,Fontaneria,
+,TMPCHK0002,2,"	Prueba de estanqueidad",2
+,TMPCHK0002,2,"	Correcta colocación de los accesorios",2
+,TMPCHK0002,2,Observaciones,4
