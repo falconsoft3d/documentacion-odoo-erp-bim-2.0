@@ -85,6 +85,12 @@ Marlon Falcón Hernández | España | Valencia
 
 19- Crear presupuesto a partir de una plantilla. https://www.youtube.com/watch?v=F9xkJY1L8EM
 
+20- Importar presupuesto desde Excel, plantilla de Presto: https://www.youtube.com/watch?v=_8LzHail3Ok&t=19s
+
+21- Aplicación de listas de costo en proyectos de construcción. https://www.youtube.com/watch?v=1mKIVDopIwU
+
+22- Eliminar conceptos de un presupuesto masivamente. https://www.youtube.com/watch?v=Rk1e_GgoKG8
+
 
 
 
