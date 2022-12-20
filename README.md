@@ -91,6 +91,11 @@ Marlon Falcón Hernández | España | Valencia
 
 22- Eliminar conceptos de un presupuesto masivamente. https://www.youtube.com/watch?v=Rk1e_GgoKG8
 
+23- Ajuste de presupuestos de construcción de Obras. https://www.youtube.com/watch?v=TTEviWbdTjE&t=1s
+
+24- Mediciones aplicadas a las partidas del presupuesto de Obra. https://www.youtube.com/watch?v=a91DR9J5U0k
+
+
 
 
 
