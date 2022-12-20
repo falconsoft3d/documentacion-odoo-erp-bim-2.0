@@ -1,78 +1,96 @@
 ﻿code,group,sub_group,parent,type,name,url,provider,available,quantity,performance,hours_day,uom_id,price
-01001,01,001,,2,Excavacion manual en pozo para cimentaciones,,,,1,5.15,8,m3,
-O01OA070,,,01001,4,Peón ordinario,,,1,1.553,,1.553,h,20.1
-01002,01,002,,2,Excavacion con medios mecanicos en pozo para cimentaciones,,,,1,23.53,8,m3,
-MAQ0115,,,01002,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.34,,,h,54.36
-O01OA070,,,01002,4,Peón ordinario,,,0.76,0.26,,,h,20.1
-01003,01,003,,2,Excavacion manual en zanja  para cimentaciones,,,,1,4.74,8,m3,
+012201,01,22,,2,Excavacion manual en pozo para cimentaciones,,,,1,5.15,8,m3,
+O01OA070,,,012201,4,Peón ordinario,,,1,1.553,,1.553,h,20.1
+012202,01,22,,2,Excavacion con medios mecanicos en pozo para cimentaciones,,,,1,23.53,8,m3,
+MAQ0115,,,012202,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.34,,,h,54.36
+O01OA070,,,012202,4,Peón ordinario,,,0.76,0.26,,,h,20.1
+01003,01,21,,2,Excavacion manual en zanja  para cimentaciones,,,,1,4.74,8,m3,
 O01OA070,,,01003,4,Peón ordinario,,,1,1.688,,,h,20.1
-01004,01,004,,2,Excavacion con medios mecanicos en zanja  para cimentaciones,,,,1,21.05,8,m3,
+01004,01,21,,2,Excavacion con medios mecanicos en zanja  para cimentaciones,,,,1,21.05,8,m3,
 MAQ0115,,,01004,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.38,,,h,54.36
 O01OA070,,,01004,4,Peón ordinario,,,0.66,0.25,,,h,20.1
-04001,04,001,,2,Zapata de cimentación de hormigón armado,,,,1,19.05,8,m3,
+041101,04,11,,2,Zapata de cimentación de hormigón armado,,,,1,19.05,8,m3,
 MAT0001,,,04001,3,Separador homologado para cimentaciones.,,,,8,,,u,0.15
-MAT0002,,,04001,3,Ferralla elaborada en taller industrial con acero en barras corrugadas. UNE-EN 10080 B 500 S. de varios diámetros.,,,,50,,,kg,1.6
-MAT0003,,,04001,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.2,,,kg,1.5
-MAT0004,,,04001,3,Hormigón HA-25/F/20/XC2. fabricado en central.,,,,1.1,,,m3,80.88
-O01OA080,,,04001,4,Oficial 1ra ,,,0.31,0.13,,,h,22.27
-O01OA070,,,04001,4,Peón ordinario,,,1,0.42,,,h,21.15
-,,,04001,7,Zapata de cimentación de hormigón armado. realizada con hormigón HA-25/F/20/XC2 fabricado en central. y vertido desde camión. y acero UNE-EN 10080 B 500 S. con una cuantía aproximada de 50 kg/m³. Incluso armaduras de espera del pilar. alambre de atar. y separadores. El precio incluye la elaboración de la ferralla (corte. doblado y conformado de elementos) en taller industrial y el montaje en el lugar definitivo de su colocación en obra. pero no incluye el encofrado.,,,,,,,,
-04002,04,002,,2,Zapata corrida de cimentación de hormigón armado.,,,,1,19.51,8,m3,
-MAT0001,,,04002,3,Separador homologado para cimentaciones.,,,,7,,,u,0.15
-MAT0002,,,04002,3,Ferralla elaborada en taller industrial con acero en barras corrugadas. UNE-EN 10080 B 500 S. de varios diámetros.,,,,100,,,kg,1.6
-MAT0003,,,04002,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.4,,,kg,1.5
-MAT0004,,,04002,3,Hormigón HA-25/F/20/XC2. fabricado en central.,,,,1.1,,,m3,80.88
-O01OA080,,,04002,4,Oficial 1ra ,,,0.51,0.21,,,h,22.27
-O01OA070,,,04002,4,Peón ordinario,,,1,0.41,,,h,21.15
-,,,04002,7,Zapata corrida de cimentación. de hormigón armado. realizada en excavación previa. con hormigón HA-25/F/20/XC2 fabricado en central. y vertido desde camión. y acero UNE-EN 10080 B 500 S. con una cuantía aproximada de 100 kg/m³. Incluso armaduras de espera de los pilares u otros elementos. alambre de atar. y separadores. El precio incluye la elaboración de la ferralla (corte. doblado y conformado de elementos) en taller industrial y el montaje en el lugar definitivo de su colocación en obra. pero no incluye el encofrado.,,,,,,,,
-31001,31,001,,2,Sistema de encofrado para zapata corrida de cimentación.,,,,1,24.62,8,m2,
-MAT0005,,,31001,3,Madera para encofrar. de 26 mm de espesor.,,,,0.008,,,m3,455.00
-MAT0006,,,31001,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.1,,,kg,1.50
-MAT0007,,,31001,3,Puntas de acero de 20x100 mm.,,,,0.05,,,kg,8.75
-MAT0008,,,31001,3,Agente desmoldeante. a base de aceites especiales. emulsionable en agua. para encofrados metálicos. fenólicos o de madera.,,,,0.03,,,l,1.80
-O01OA090,,,31001,4,Oficial 1ra encofrador.,,,1,0.325,,,h,22.27
-O01OA091,,,31001,4,Ayudante encofrador.,,,1,0.325,,,h,21.15
-,,,31001,7,Montaje de sistema de encofrado recuperable de madera. para zapata corrida de cimentación de sección rectangular. formado por tablones de madera. amortizables en 10 usos. y posterior desmontaje del sistema de encofrado. Incluso elementos de sustentación. fijación y acodalamientos necesarios para su estabilidad y líquido desencofrante. para evitar la adherencia del hormigón al encofrado.,,,,,,,,
-31002,31,002,,2,Sistema de encofrado para zapata de cimentación.,,,,1,21.62,8,m2,
-MAT0005,,,31002,3,Madera para encofrar. de 26 mm de espesor.,,,,0.006,,,m3,455.00
-MAT0006,,,31002,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.1,,,kg,1.50
-MAT0007,,,31002,3,Puntas de acero de 20x100 mm.,,,,0.05,,,kg,8.75
-MAT0008,,,31002,3,Agente desmoldeante. a base de aceites especiales. emulsionable en agua. para encofrados metálicos. fenólicos o de madera.,,,,0.03,,,l,1.80
-O01OA090,,,31002,4,Oficial 1ra encofrador.,,,,0.370,,,h,22.27
-O01OA091,,,31002,4,Ayudante encofrador.,,,,0.370,,,h,21.15
-,,,31002,7,Montaje de sistema de encofrado recuperable de madera. para zapata de cimentación. formado por tablones de madera. amortizables en 10 usos. y posterior desmontaje del sistema de encofrado. Incluso elementos de sustentación. fijación y acodalamientos necesarios para su estabilidad y líquido desencofrante. para evitar la adherencia del hormigón al encofrado.,,,,,,,,
-01003,01,003,,2,Relleno en trasdós de elementos de cimentación.,,,,1,21.33,8,m3,
-MAT0009,,,01003,3,Agua.,,,,0.006,,,m3,1.5
-MAQ0001,,,01003,5,Pisón vibrante de guiado manual. de 80 kg. con placa de 30x30 cm. tipo rana.,,,1,0.375,,,h,4.56
-O01OA070,,,01003,4,Peón ordinario,,,0.42,0.158,,,h,21.15
-,,,01004,7,Relleno en trasdós de elementos de cimentación. con tierra seleccionada procedente de la propia excavación con medios manuales. y compactación en tongadas sucesivas de 30 cm de espesor máximo con pisón vibrante de guiado manual. hasta alcanzar una densidad seca no inferior al 95% de la máxima obtenida en el ensayo Proctor Modificado. realizado según UNE 103501. El precio no incluye la realización del ensayo Proctor Modificado.,,,,,,,,
-04003,04,003,,2,Hormigón ciclópeo.,,,,1,8.08,8,m3,
-MAT0010,,,04003,3,Hormigón HM-20/P/40/X0. fabricado en central.,,,,0.660,,,m3,69.54
-MAT0011,,,04003,3,Bolos de piedra de 15 a 30 cm de diámetro.,,,,0.400,,,m3,19.92
-O01OA080,,,04003,4,Oficial 1ra ,,,0.11,0.11,,,h,22.27
-O01OA070,,,04003,4,Peón ordinario,,,1,0.99,,,h,21.15
-,,,04003,7,Hormigón ciclópeo. realizado con hormigón HM-20/P/40/X0 fabricado en central y vertido desde camión (60% de volumen) y bolos de piedra de 15 a 30 cm de diámetro (40% de volumen). para formación de cimentación.,,,,,,,,
-03001,03,001,,2,Demolición de muro de ladrillo hueco de fábrica.,,,,1,5.33,8,m2,
-O01OA071,,,03001,4,Peón especializado,,,1,1.5,,,h,20.43
-O01OA070,,,03001,4,Peón ordinario,,,1,1.5,,,h,21.15
-,,,03001,7,Demolición de muro de fábrica de ladrillo cerámico hueco. con medios manuales. y carga manual sobre camión o contenedor.,,,,,,,,
-03002,03,002,,2,Demolición de muro de ladrillo macizo de fábrica.,,,,1,2.50,8,m2,
-O01OA071,,,03002,4,Peón especializado,,,1,3.2,,,h,20.43
-O01OA070,,,03002,4,Peón ordinario,,,1,3.2,,,h,21.15
-,,,03002,7,Demolición de muro de fábrica de ladrillo cerámico macizo. con medios manuales. y carga manual sobre camión o contenedor.,,,,,,,,
-03003,03,003,,2,Demolición de muro de bloque de hormigon  hueco de fábrica.,,,,1,4.32,8,m2,
-O01OA071,,,03003,4,Peón especializado,,,1,1.85,,,h,20.43
-O01OA070,,,03003,4,Peón ordinario,,,1,1.85,,,h,21.15
-,,,03003,7,Demolición de muro de fábrica de bloque de hormigón hueco. con medios manuales. y carga manual sobre camión o contenedor.,,,,,,,,
-03004,03,004,,2,Demolición de muro de bloque de hormigon  hueco de fábrica mecanizado,,,,1,7.27,8,m2,
-O01OA071,,,03004,4,Peón especializado,,,1,1.1,,,h,20.43
-O01OA070,,,03004,4,Peón ordinario,,,1,1.1,,,h,21.15
-MAQ0002,,,03004,5,Martillo neumático.,,,0.59,0.65,,,h,4.57
-MAQ0003,,,03004,5,Compresor portátil diesel media presión 10 m³/min.,,,0.30,0.325,,,h,7.75
-,,,03004,7,Demolición de muro de fábrica de bloque de hormigón hueco. con martillo neumático. y carga manual sobre camión o contenedor.,,,,,,,,
-03004,03,004,,2,Demolición de muro de bloque de hormigon  macizado de fábrica mecanizado,,,,1,2.35,8,m2,
-O01OA071,,,03004,4,Peón especializado,,,1,3.4,,,h,20.43
-O01OA070,,,03004,4,Peón ordinario,,,1,3.4,,,h,21.15
-MAQ0002,,,03004,5,Martillo neumático.,,,0.59,2,,,h,4.57
-MAQ0003,,,03004,5,Compresor portátil diesel media presión 10 m³/min.,,,0.29,1,,,h,7.75
-,,,03004,7,Demolición de muro de fábrica de bloque de hormigón macizado y armado. con martillo neumático. y carga manual sobre camión o contenedor.,,,,,,,,
+MAT0002,,,041101,3,Ferralla elaborada en taller industrial con acero en barras corrugadas. UNE-EN 10080 B 500 S. de varios diámetros.,,,,50,,,kg,1.6
+MAT0003,,,041101,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.2,,,kg,1.5
+MAT0004,,,041101,3,Hormigón HA-25/F/20/XC2. fabricado en central.,,,,1.1,,,m3,80.88
+O01OA080,,,041101,4,Oficial 1ª ,,,0.31,0.13,,,h,22.27
+O01OA070,,,041101,4,Peón ordinario,,,1,0.42,,,h,21.15
+,,,041101,7,Zapata de cimentación de hormigón armado. realizada con hormigón HA-25/F/20/XC2 fabricado en central. y vertido desde camión. y acero UNE-EN 10080 B 500 S. con una cuantía aproximada de 50 kg/m³. Incluso armaduras de espera del pilar. alambre de atar. y separadores. El precio incluye la elaboración de la ferralla (corte. doblado y conformado de elementos) en taller industrial y el montaje en el lugar definitivo de su colocación en obra. pero no incluye el encofrado.,,,,,,,,
+041401,04,14,,2,Zapata corrida de cimentación de hormigón armado.,,,,1,19.51,8,m3,
+MAT0001,,,041401,3,Separador homologado para cimentaciones.,,,,7,,,u,0.15
+MAT0002,,,041401,3,Ferralla elaborada en taller industrial con acero en barras corrugadas. UNE-EN 10080 B 500 S. de varios diámetros.,,,,100,,,kg,1.6
+MAT0003,,,041401,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.4,,,kg,1.5
+MAT0004,,,041401,3,Hormigón HA-25/F/20/XC2. fabricado en central.,,,,1.1,,,m3,80.88
+O01OA080,,,041401,4,Oficial 1ª ,,,0.51,0.21,,,h,22.27
+O01OA070,,,041401,4,Peón ordinario,,,1,0.41,,,h,21.15
+,,,041401,7,Zapata corrida de cimentación. de hormigón armado. realizada en excavación previa. con hormigón HA-25/F/20/XC2 fabricado en central. y vertido desde camión. y acero UNE-EN 10080 B 500 S. con una cuantía aproximada de 100 kg/m³. Incluso armaduras de espera de los pilares u otros elementos. alambre de atar. y separadores. El precio incluye la elaboración de la ferralla (corte. doblado y conformado de elementos) en taller industrial y el montaje en el lugar definitivo de su colocación en obra. pero no incluye el encofrado.,,,,,,,,
+311201,31,12,,2,Sistema de encofrado para zapata corrida de cimentación.,,,,1,24.62,8,m2,
+MAT0005,,,311201,3,Madera para encofrar. de 26 mm de espesor.,,,,0.008,,,m3,455.00
+MAT0006,,,311201,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.1,,,kg,1.50
+MAT0007,,,311201,3,Puntas de acero de 20x100 mm.,,,,0.05,,,kg,8.75
+MAT0008,,,311201,3,Agente desmoldeante. a base de aceites especiales. emulsionable en agua. para encofrados metálicos. fenólicos o de madera.,,,,0.03,,,l,1.80
+O01OA090,,,311201,4,Oficial 1ª encofrador.,,,1,0.325,,,h,22.27
+O01OA091,,,311201,4,Ayudante encofrador.,,,1,0.325,,,h,21.15
+,,,311201,7,Montaje de sistema de encofrado recuperable de madera. para zapata corrida de cimentación de sección rectangular. formado por tablones de madera. amortizables en 10 usos. y posterior desmontaje del sistema de encofrado. Incluso elementos de sustentación. fijación y acodalamientos necesarios para su estabilidad y líquido desencofrante. para evitar la adherencia del hormigón al encofrado.,,,,,,,,
+311202,31,12,,2,Sistema de encofrado para zapata de cimentación.,,,,1,21.62,8,m2,
+MAT0005,,,311202,3,Madera para encofrar. de 26 mm de espesor.,,,,0.006,,,m3,455.00
+MAT0006,,,311202,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.1,,,kg,1.50
+MAT0007,,,311202,3,Puntas de acero de 20x100 mm.,,,,0.05,,,kg,8.75
+MAT0008,,,311202,3,Agente desmoldeante. a base de aceites especiales. emulsionable en agua. para encofrados metálicos. fenólicos o de madera.,,,,0.03,,,l,1.80
+O01OA090,,,311202,4,Oficial 1ª encofrador.,,,,0.370,,,h,22.27
+O01OA091,,,311202,4,Ayudante encofrador.,,,,0.370,,,h,21.15
+,,,311202,7,Montaje de sistema de encofrado recuperable de madera. para zapata de cimentación. formado por tablones de madera. amortizables en 10 usos. y posterior desmontaje del sistema de encofrado. Incluso elementos de sustentación. fijación y acodalamientos necesarios para su estabilidad y líquido desencofrante. para evitar la adherencia del hormigón al encofrado.,,,,,,,,
+014301,01,43,,2,Relleno en trasdós de elementos de cimentación.,,,,1,21.33,8,m3,
+MAT0009,,,014301,3,Agua.,,,,0.006,,,m3,1.5
+MAQ0001,,,014301,5,Pisón vibrante de guiado manual. de 80 kg. con placa de 30x30 cm. tipo rana.,,,1,0.375,,,h,4.56
+O01OA070,,,014301,4,Peón ordinario,,,0.42,0.158,,,h,21.15
+,,,014301,7,Relleno en trasdós de elementos de cimentación. con tierra seleccionada procedente de la propia excavación con medios manuales. y compactación en tongadas sucesivas de 30 cm de espesor máximo con pisón vibrante de guiado manual. hasta alcanzar una densidad seca no inferior al 95% de la máxima obtenida en el ensayo Proctor Modificado. realizado según UNE 103501. El precio no incluye la realización del ensayo Proctor Modificado.,,,,,,,,
+041402,04,14,,2,Hormigón ciclópeo.,,,,1,8.08,8,m3,
+MAT0010,,,041402,3,Hormigón HM-20/P/40/X0. fabricado en central.,,,,0.660,,,m3,69.54
+MAT0011,,,041402,3,Bolos de piedra de 15 a 30 cm de diámetro.,,,,0.400,,,m3,19.92
+O01OA080,,,041402,4,Oficial 1ª ,,,0.11,0.11,,,h,22.27
+O01OA070,,,041402,4,Peón ordinario,,,1,0.99,,,h,21.15
+,,,041402,7,Hormigón ciclópeo. realizado con hormigón HM-20/P/40/X0 fabricado en central y vertido desde camión (60% de volumen) y bolos de piedra de 15 a 30 cm de diámetro (40% de volumen). para formación de cimentación.,,,,,,,,
+030101,03,01,,2,Demolición de muro de ladrillo hueco de fábrica.,,,,1,5.33,8,m2,
+O01OA071,,,030101,4,Peón especializado,,,1,1.5,,,h,20.43
+O01OA070,,,030101,4,Peón ordinario,,,1,1.5,,,h,21.15
+,,,030101,7,Demolición de muro de fábrica de ladrillo cerámico hueco. con medios manuales. y carga manual sobre camión o contenedor.,,,,,,,,
+030102,03,01,,2,Demolición de muro de ladrillo macizo de fábrica.,,,,1,2.50,8,m2,
+O01OA071,,,030102,4,Peón especializado,,,1,3.2,,,h,20.43
+O01OA070,,,030102,4,Peón ordinario,,,1,3.2,,,h,21.15
+,,,030102,7,Demolición de muro de fábrica de ladrillo cerámico macizo. con medios manuales. y carga manual sobre camión o contenedor.,,,,,,,,
+030103,03,01,,2,Demolición de muro de bloque de hormigon  hueco de fábrica.,,,,1,4.32,8,m2,
+O01OA071,,,030103,4,Peón especializado,,,1,1.85,,,h,20.43
+O01OA070,,,030103,4,Peón ordinario,,,1,1.85,,,h,21.15
+,,,030103,7,Demolición de muro de fábrica de bloque de hormigón hueco. con medios manuales. y carga manual sobre camión o contenedor.,,,,,,,,
+030104,03,01,,2,Demolición de muro de bloque de hormigon  hueco de fábrica mecanizado,,,,1,7.27,8,m2,
+O01OA071,,,030104,4,Peón especializado,,,1,1.1,,,h,20.43
+O01OA070,,,030104,4,Peón ordinario,,,1,1.1,,,h,21.15
+MAQ0002,,,030104,5,Martillo neumático.,,,0.59,0.65,,,h,4.57
+MAQ0003,,,030104,5,Compresor portátil diesel media presión 10 m³/min.,,,0.30,0.325,,,h,7.75
+,,,030104,7,Demolición de muro de fábrica de bloque de hormigón hueco. con martillo neumático. y carga manual sobre camión o contenedor.,,,,,,,,
+030105,03,01,,2,Demolición de muro de bloque de hormigon  macizado de fábrica mecanizado,,,,1,2.35,8,m2,
+O01OA071,,,030105,4,Peón especializado,,,1,3.4,,,h,20.43
+O01OA070,,,030105,4,Peón ordinario,,,1,3.4,,,h,21.15
+MAQ0002,,,030105,5,Martillo neumático.,,,0.59,2,,,h,4.57
+MAQ0003,,,030105,5,Compresor portátil diesel media presión 10 m³/min.,,,0.29,1,,,h,7.75
+,,,030105,7,Demolición de muro de fábrica de bloque de hormigón macizado y armado. con martillo neumático. y carga manual sobre camión o contenedor.,,,,,,,,
+060101,06,01,,2,Demolición de entramado de madera.,,,,1,16.00,8,m2,
+,,,060101,5,Motosierra a gasolina. de 50 cm de espada y 2 kW de potencia.,,,0.60,0.3,,,h,3.36
+O01OA080,,,060101,4,Oficial 1ª ,,,0.60,0.3,,,h,22.27
+O01OA071,,,060101,4,Peón especializado,,,0.60,0.3,,,h,20.43
+O01OA070,,,060101,4,Peón ordinario,,,1,0.5,,,h,21.15
+,,,060101,7,Demolición de entramado de madera. con medios manuales y motosierra. y carga manual sobre camión o contenedor.,,,,,,,,
+060102,06,01,,2,Demolición de correa de madera.,,,,1,40.00,8,m,
+,,,060102,5,Motosierra a gasolina. de 50 cm de espada y 2 kW de potencia.,,,0.60,0.12,,,h,3.36
+O01OA080,,,060102,4,Oficial 1ª ,,,0.60,0.12,,,h,22.27
+O01OA071,,,060102,4,Peón especializado,,,0.60,0.12,,,h,20.43
+O01OA070,,,060102,4,Peón ordinario,,,1,0.2,,,h,21.15
+,,,060102,7,Demolición de correa de madera. con medios manuales y motosierra. y carga manual sobre camión o contenedor.,,,,,,,,
+060103,06,01,,2,Demolición de cercha de madera.,,,,1,8.00,8,ud,
+,,,060103,5,Motosierra a gasolina. de 50 cm de espada y 2 kW de potencia.,,,0.60,0.6,,,h,3.36
+O01OA080,,,060103,4,Oficial 1ª ,,,0.60,0.6,,,h,22.27
+O01OA071,,,060103,4,Peón especializado,,,0.60,0.6,,,h,20.43
+O01OA070,,,060103,4,Peón ordinario,,,1,1,,,h,21.15
+,,,060103,7,Demolición de cercha ligera de madera. de 4 m de luz entre apoyos. con medios manuales y motosierra. y carga manual sobre camión o contenedor. El precio incluye el picado de las entregas de la cercha en los muros de apoyo,,,,,,,,
