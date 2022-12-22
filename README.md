@@ -103,7 +103,7 @@ Marlon Falcón Hernández | España | Valencia
 
 28- Incidencias en la importación de presupuestos de construcción. https://www.youtube.com/watch?v=lFHjisvrGIM
 
-29- Rectificación de productos en impostación de presupuesto. https://www.youtube.com/watch?v=RbkU450_4Bk
+29- Rectificación de productos en importación de presupuesto. https://www.youtube.com/watch?v=RbkU450_4Bk
 
 
 
