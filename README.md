@@ -105,6 +105,8 @@ Marlon Falcón Hernández | España | Valencia
 
 29- Rectificación de productos en importación de presupuesto. https://www.youtube.com/watch?v=RbkU450_4Bk
 
+30- Importar presupuestos desde la plantilla 2000. https://www.youtube.com/watch?v=2otCz1TZEPY&t=3s
+
 
 
 
