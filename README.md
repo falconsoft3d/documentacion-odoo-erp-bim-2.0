@@ -95,6 +95,8 @@ Marlon Falcón Hernández | España | Valencia
 
 24- Mediciones aplicadas a las partidas del presupuesto de Obra. https://www.youtube.com/watch?v=a91DR9J5U0k
 
+25- Actualizar presupuestos de construcción. https://www.youtube.com/watch?v=6bFTNnGiLzA
+
 
 
 
