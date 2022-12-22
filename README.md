@@ -97,6 +97,8 @@ Marlon Falcón Hernández | España | Valencia
 
 25- Actualizar presupuestos de construcción. https://www.youtube.com/watch?v=6bFTNnGiLzA
 
+26- Importar presupuesto construcción con la Plantilla 1000. https://www.youtube.com/watch?v=4kfvLX1o188
+
 
 
 
