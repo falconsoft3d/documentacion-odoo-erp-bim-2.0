@@ -99,6 +99,10 @@ Marlon Falcón Hernández | España | Valencia
 
 26- Importar presupuesto construcción con la Plantilla 1000. https://www.youtube.com/watch?v=4kfvLX1o188
 
+27- Asignar conceptos a presupuesto de obras desde base de datos. https://www.youtube.com/watch?v=cZPGFCXn7fo&t=1s
+
+28- Incidencias en la importación de presupuestos de construcción. https://www.youtube.com/watch?v=lFHjisvrGIM
+
 
 
 
