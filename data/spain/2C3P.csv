@@ -1,0 +1,16 @@
+﻿code,group,sub_group,parent,type,name,url,provider,available,quantity,performance,hours_day,uom_id,price
+A,,,,1,excavaciones,,,,1,,,ud,
+012201,01,22,A,2,Excavacion manual en pozo para cimentaciones,,,,1,5.15,8,m3,
+O01OA070,,,012201,4,Peón ordinario,,,1,1.553,,1.553,h,20.1
+012202,01,22,A,2,Excavacion con medios mecanicos en pozo para cimentaciones,,,,1,23.53,8,m3,
+MAQ0115,,,012202,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.34,,,h,54.36
+O01OA070,,,012202,4,Peón ordinario,,,0.76,0.26,,,h,20.1
+B,,,,1,Cimentaciones,,,,1,,,ud,
+041401,04,14,B,2,Zapata corrida de cimentación de hormigón armado.,,,,1,19.51,8,m3,
+MAT0001,,,041401,3,Separador homologado para cimentaciones.,,,,7,,,u,0.15
+MAT0002,,,041401,3,Ferralla elaborada en taller industrial con acero en barras corrugadas. UNE-EN 10080 B 500 S. de varios diámetros.,,,,100,,,kg,1.6
+MAT0003,,,041401,3,Alambre galvanizado para atar. de 1.30 mm de diámetro.,,,,0.4,,,kg,1.5
+MAT0004,,,041401,3,Hormigón HA-25/F/20/XC2. fabricado en central.,,,,1.1,,,m3,80.88
+O01OA080,,,041401,4,Oficial 1ª ,,,0.51,0.21,,,h,22.27
+O01OA070,,,041401,4,Peón ordinario,,,1,0.41,,,h,21.15
+,,,041401,7,Zapata corrida de cimentación. de hormigón armado. realizada en excavación previa. con hormigón HA-25/F/20/XC2 fabricado en central. y vertido desde camión. y acero UNE-EN 10080 B 500 S. con una cuantía aproximada de 100 kg/m3. Incluso armaduras de espera de los pilares u otros elementos. alambre de atar. y separadores. El precio incluye la elaboración de la ferralla (corte. doblado y conformado de elementos) en taller industrial y el montaje en el lugar definitivo de su colocación en obra. pero no incluye el encofrado.,,,,,,,,

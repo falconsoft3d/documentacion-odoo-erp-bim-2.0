@@ -1,0 +1,7 @@
+﻿code,group,sub_group,parent,type,name,url,provider,available,quantity,performance,hours_day,uom_id,price
+A,,,,1,Cimentaciones,,,,1,,,ud,
+012201,01,22,A,2,Excavacion manual en pozo para cimentaciones,,,,1,5.15,8,m3,
+O01OA070,,,012201,4,Peón ordinario,,,1,1.553,,1.553,h,20.1
+012202,01,22,A,2,Excavacion con medios mecanicos en pozo para cimentaciones,,,,1,23.53,8,m3,
+MAQ0115,,,012202,5,Retroexcavadora hidráulica sobre neumáticos. de 115 kW,,,1,0.34,,,h,54.36
+O01OA070,,,012202,4,Peón ordinario,,,0.76,0.26,,,h,20.1
