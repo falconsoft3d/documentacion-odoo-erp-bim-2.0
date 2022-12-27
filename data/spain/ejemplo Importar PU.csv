@@ -1,0 +1,7 @@
+﻿code,group,sub_group,parent,type,name,url,provider,available,quantity,performance,hours_day,uom_id,price,
+016101,,,,2,Transporte con camión de residuos inertes de ladrillos. tejas y materiales cerámicos,,,,1,36.87,8,m3,,
+MAQ0006,,,016101,5,Camión de transporte de 10 t con una capacidad de 8 m3 y 2 ejes.,,,0.49,0.106,,,h,59.6,
+O01OA070,,,016101,4,Peón ordinario,,,1.00,0.217,,,h,21.15,
+%Medios auxiliares,,,016101,6,Medios auxiliares ,,,,,,,%,2,
+MAT0009,,,016101,3,Agua.,,,,0.005,,,m3,1.5,
+,,,016101,7,Transporte con camión de residuos inertes de ladrillos. tejas y materiales cerámicos. producidos en obras de construcción y/o demolición. a vertedero específico. instalación de tratamiento de residuos de construcción y demolición externa a la obra o centro de valorización o eliminación de residuos. situado a 10 km de distancia.,,,,,,,,,
