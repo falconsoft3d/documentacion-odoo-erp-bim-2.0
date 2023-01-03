@@ -109,6 +109,11 @@ Marlon Falcón Hernández | España | Valencia
 
 31- Flujo de caja a nivel de presupuesto de construcción en un proyecto. https://www.youtube.com/watch?v=eRbXudVPzpU
 
+32- Exportar desde Revit a Microsoft Excel para usarlo en Odoo BIM 16 el listado de materiales. https://www.youtube.com/watch?v=7dbUp5n0gOw&t
+
+32- Base de precios unitarios Odoo BIM vs Revit. https://www.youtube.com/watch?v=jd3UR0bqsUQ
+
+
 
 
 
