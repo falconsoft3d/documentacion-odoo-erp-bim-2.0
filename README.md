@@ -117,6 +117,20 @@ Marlon Falcón Hernández | España | Valencia
 
 35- Actualizar presupuesto en Odoo ERP BIM desde Revit. https://www.youtube.com/watch?v=S6epJTbLdek
 
+36- Actualizar presupuesto Odoo BIM desde Revit utilizando el formulario. https://www.youtube.com/watch?v=xLz7JN9JfFE
+
+37- Fichero de Lista de cantidades desde Revit a Odoo Bim 2.0. https://www.youtube.com/watch?v=1F1rYgWHSig
+
+38- Importar Presupuestos desde lista de materiales BOQ Revit a Odoo. https://www.youtube.com/watch?v=_5J8XEEC81k
+
+39- Presupuesto BIM a partir de presupuesto de venta Odoo ERP. Integración con Ventas. https://www.youtube.com/watch?v=IzbiuI2GC0Q&t=1s
+
+40- Plantilla de presupuestos por precios unitarios APUs en Odoo ERP BIM 2.0. https://www.youtube.com/watch?v=D_pMJLyYttc
+
+41- Creando un presupuesto desde una plantilla basada en APUs en Odoo bim 2.0. https://www.youtube.com/watch?v=_ULPSRmYtvM&t=1s
+
+42- Presupuesto BIM a partir de ordenes de venta Odoo ERP sin plantillas. https://www.youtube.com/watch?v=o1mKa6S35Oc
+
 
 
 
