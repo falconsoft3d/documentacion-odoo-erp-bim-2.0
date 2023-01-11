@@ -111,7 +111,11 @@ Marlon Falcón Hernández | España | Valencia
 
 32- Exportar desde Revit a Microsoft Excel para usarlo en Odoo BIM 16 el listado de materiales. https://www.youtube.com/watch?v=7dbUp5n0gOw&t
 
-32- Base de precios unitarios Odoo BIM vs Revit. https://www.youtube.com/watch?v=jd3UR0bqsUQ
+33- Base de precios unitarios Odoo BIM vs Revit. https://www.youtube.com/watch?v=jd3UR0bqsUQ
+
+34-
+
+35- Actualizar presupuesto en Odoo ERP BIM desde Revit. https://www.youtube.com/watch?v=S6epJTbLdek
 
 
 
