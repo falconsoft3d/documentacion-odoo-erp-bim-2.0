@@ -7,36 +7,36 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 -	Presupuestos orientativos
 -	Creación de presupuestos a partir de plantillas personalizadas 
 -	Creación de presupuestos detallados de BIM a partir de presupuesto de venta Odoo
-•	Integración con Project.
-•	Integración con BC3.
-•	Integración con Excel.
-•	Integración con Revit
-•	Integración con modelados BIM  a través de listas de BoQ
-•	Precios Unitarios.
-•	Gastos Indirectos.
-•	Fórmula polinómicas.
-•	Comparaciones de Presupuestos.
-•	ITE. Índices Técnicos Económicos.
-•	Certificaciones de Avance.
-•	Estados de Pagos.
-•	Imputación de avances según consumo
-•	Registro de Costes / Gastos.
-•	Saldos de apertura
-•	Asistencias de Obra.
-•	Alquiler de Equipos.
-•	Herramientas 
-•	Análisis de Coste / Beneficio.
-•	Método del Valor Ganado
-•	Flujo de caja
-•	Balance de recursos
-•	Listas de Chequeos.
-•	Plan de Calidad.
-•	Documentación de Obras.
-•	Contrato de Obra.
-•	Solicitudes de Materiales o Servicios.
-•	Reportes Varios.
-•	Importaciones.
-•	Tickets de Obras.
+-	Integración con Project.
+-	Integración con BC3.
+-	Integración con Excel.
+-	Integración con Revit
+-	Integración con modelados BIM  a través de listas de BoQ
+-	Precios Unitarios.
+-	Gastos Indirectos.
+-	Fórmula polinómicas.
+-	Comparaciones de Presupuestos.
+-	ITE. Índices Técnicos Económicos.
+-	Certificaciones de Avance.
+-	Estados de Pagos.
+-	Imputación de avances según consumo
+-	Registro de Costes / Gastos.
+-	Saldos de apertura
+-	Asistencias de Obra.
+-	Alquiler de Equipos.
+-	Herramientas 
+-	Análisis de Coste / Beneficio.
+-	Método del Valor Ganado
+-	Flujo de caja
+-	Balance de recursos
+-	Listas de Chequeos.
+-	Plan de Calidad.
+-	Documentación de Obras.
+-	Contrato de Obra.
+-	Solicitudes de Materiales o Servicios.
+-	Reportes Varios.
+-	Importaciones.
+-	Tickets de Obras.
 
 # Web
 Link: https://www.bim20.com/
