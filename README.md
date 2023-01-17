@@ -3,10 +3,10 @@ Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o 
 ![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
 
 # Funciones actuales.
-•	Presupuestos de Obra
-•	Presupuestos orientativos
-•	Creación de presupuestos a partir de plantillas personalizadas 
-•	Creación de presupuestos detallados de BIM a partir de presupuesto de venta Odoo
+-	Presupuestos de Obra
+-	Presupuestos orientativos
+-	Creación de presupuestos a partir de plantillas personalizadas 
+-	Creación de presupuestos detallados de BIM a partir de presupuesto de venta Odoo
 •	Integración con Project.
 •	Integración con BC3.
 •	Integración con Excel.
