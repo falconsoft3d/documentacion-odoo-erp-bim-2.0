@@ -12,6 +12,6 @@
 
 6- **6000_uom.xlsx** : Para importar unidades de medidas.
 
-
+7- **8000_saldos_apertura** : Para importar saldos de apertura. 
 
 
