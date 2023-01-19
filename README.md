@@ -141,6 +141,22 @@ Marlon Falcón Hernández | España | Valencia
 
 42- Presupuesto BIM a partir de ordenes de venta Odoo ERP sin plantillas. https://www.youtube.com/watch?v=o1mKa6S35Oc
 
+43- 
+
+44- Odoo bim histórico de presupuestos. https://www.youtube.com/watch?v=wDakjp3OhXk&t=1s
+
+45- Trabajar los presupuestos con precios unitarios. https://www.youtube.com/watch?v=T9Uk33WBwRU&t=1s
+
+46- Tips Para navegar en la vista tree del árbol del presupuesto odoo bim. https://www.youtube.com/watch?v=VmXrlhApfrA
+
+47- Presupuesto preliminar en el crm configuración. Odoo BIM. https://www.youtube.com/watch?v=wG_q9JLRQrU
+
+48- Crear presupuesto preliminar de construcción en odoo bim. https://www.youtube.com/watch?v=gwqeermnQ-A
+
+49- Presupuesto preliminar ventas detallado Odoo BIM. https://www.youtube.com/watch?v=aA42xt0q-PQ
+
+50- Base de datos de precios unitarios dentro de BIM 2 0 Odoo 16. https://www.youtube.com/watch?v=FRMXaIRY0R4
+
 
 
 
