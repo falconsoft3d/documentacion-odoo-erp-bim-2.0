@@ -157,6 +157,10 @@ Marlon Falcón Hernández | España | Valencia
 
 50- Base de datos de precios unitarios dentro de BIM 2 0 Odoo 16. https://www.youtube.com/watch?v=FRMXaIRY0R4
 
+C3 051 - Actualización de precios Unitarios     https://youtu.be/SBtYXoT1Fnw
+
+C3 052 - Índice unificado y sus utilidades   https://youtu.be/MDkF7yyNyc0
+
 
 
 
