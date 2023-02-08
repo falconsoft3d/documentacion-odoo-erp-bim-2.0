@@ -57,105 +57,103 @@ Marlon Falcón Hernández | España | Valencia
 # Videos de BIM 2.0 para Odoo ERP 16.
 
 
-1- Introducción al módulo para constructoras: https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
+C1 001  Introducción a BIM  Odoo 16  https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
 
-2- Ajustes generales del módulo BIM 2.0 en Odoo 16: https://www.youtube.com/watch?v=KeFCFdKMa9M&t=1s
+C2 002 - Ajustes generales BIM Parte 1   https://www.youtube.com/watch?v=KeFCFdKMa9M&t=1s
 
-3- Ajustes generales 2 del módulo BIM 2.0 en Odoo 16: https://www.youtube.com/watch?v=eg369n_uPpI
+C2 003 - Ajustes generales BIM Parte 2   https://www.youtube.com/watch?v=eg369n_uPpI
 
-4- Ajustes generales 3: https://www.youtube.com/watch?v=8mjlOzeZ7Hc&t=1s
+C2 004 - Ajustes generales BIM Parte 3   https://www.youtube.com/watch?v=8mjlOzeZ7Hc&t=1s
 
-5- Crear almacen desde la obra: https://www.youtube.com/watch?v=TwM7XjvLdxE&t=2s
+C2 006 - Crear almacén en Obra Odoo 16 https://www.youtube.com/watch?v=TwM7XjvLdxE&t=2s
 
-6- Crear cuenta analítica.https://www.youtube.com/watch?v=wjOXZfp2G0k&t=1s
+C2 007  Crear cuenta analítica.https://www.youtube.com/watch?v=wjOXZfp2G0k&t=1s
 
-7- Crear obra o proyecto desde un lead en el *CRM*: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
+C2 009 Gestión de estados de obras: https://www.youtube.com/watch?v=YztBMahy5Vw&t=1s
 
-8- Crer Obra o proyecto de construcción: https://www.youtube.com/watch?v=07GfhJ99SIA&t=1s
+C2 010 Objetos de obras y espacios: https://www.youtube.com/watch?v=Uj1nFUQRnao
 
-9- Gestión de estados de obras: https://www.youtube.com/watch?v=YztBMahy5Vw&t=1s
+C3 005 Crer Obra o proyecto de construcción: https://www.youtube.com/watch?v=07GfhJ99SIA&t=1s
 
-10- Objetos de obras y espacios: https://www.youtube.com/watch?v=Uj1nFUQRnao
+C3 008 Crear obra o proyecto desde un lead en el *CRM*: https://www.youtube.com/watch?v=HYzK0kF9d4U&t=2s
 
-11- Formulario presupuestos de una proyecto de construcción: https://www.youtube.com/watch?v=ETDZyCJFXyk
+C3 011 Formulario presupuestos de una proyecto de construcción: https://www.youtube.com/watch?v=ETDZyCJFXyk
 
-12- Función Otros Administrativos en presupuestos de construcción: https://www.youtube.com/watch?v=DUBVVC37r88
+C3 012 Crear presupuesto de un proyecto al alza: https://www.youtube.com/watch?v=ulj5Q6M8MWk
 
-13- Concepto tipo capítulos: https://www.youtube.com/watch?v=VIqcUApQkF8&t=1s
+C3 013  Concepto tipo capítulos: https://www.youtube.com/watch?v=VIqcUApQkF8&t=1s
 
-14- Concepto tipo partidas: https://www.youtube.com/watch?v=e8lJUoUyC-8&t=1s
+C3 014  Concepto tipo partidas: https://www.youtube.com/watch?v=e8lJUoUyC-8&t=1s
 
-15- Concepto tipo recursos: https://www.youtube.com/watch?v=fbU_y8kXAYk&t=7s
+C3 015  Concepto tipo recursos: https://www.youtube.com/watch?v=fbU_y8kXAYk&t=7s
 
-16- Crear presupuesto de un proyecto al alza: https://www.youtube.com/watch?v=ulj5Q6M8MWk
+C3 016 Función Otros Administrativos en presupuestos de construcción: https://www.youtube.com/watch?v=DUBVVC37r88
 
-17- Función de copiar y pegar en presupuestos de construcción: https://www.youtube.com/watch?v=_o1SX2ueKU0
+C3 017 Función de copiar y pegar en presupuestos de construcción: https://www.youtube.com/watch?v=_o1SX2ueKU0
 
-18- Crear presupuesto desde un archivo **BC3**: https://www.youtube.com/watch?v=A1ondhdYCg4&t=5s
+C3 018  Crear presupuesto desde un archivo **BC3**: https://www.youtube.com/watch?v=A1ondhdYCg4&t=5s
 
-19- Crear presupuesto a partir de una plantilla. https://www.youtube.com/watch?v=F9xkJY1L8EM
+C3 019 Crear presupuesto a partir de una plantilla. https://www.youtube.com/watch?v=F9xkJY1L8EM
 
-20- Importar presupuesto desde Excel, plantilla de Presto: https://www.youtube.com/watch?v=_8LzHail3Ok&t=19s
+C3 020  Importar presupuesto desde Excel, plantilla de Presto: https://www.youtube.com/watch?v=_8LzHail3Ok&t=19s
 
-21- Aplicación de listas de costo en proyectos de construcción. https://www.youtube.com/watch?v=1mKIVDopIwU
+C3 021 Aplicación de listas de costo en proyectos de construcción. https://www.youtube.com/watch?v=1mKIVDopIwU
 
-22- Eliminar conceptos de un presupuesto masivamente. https://www.youtube.com/watch?v=Rk1e_GgoKG8
+C3 022  Eliminar conceptos de un presupuesto masivamente. https://www.youtube.com/watch?v=Rk1e_GgoKG8
 
-23- Ajuste de presupuestos de construcción de Obras. https://www.youtube.com/watch?v=TTEviWbdTjE&t=1s
+C3 023  Ajuste de presupuestos de construcción de Obras. https://www.youtube.com/watch?v=TTEviWbdTjE&t=1s
 
-24- Mediciones aplicadas a las partidas del presupuesto de Obra. https://www.youtube.com/watch?v=a91DR9J5U0k
+C3 024  Mediciones aplicadas a las partidas del presupuesto de Obra. https://www.youtube.com/watch?v=a91DR9J5U0k
 
-25- Actualizar presupuestos de construcción. https://www.youtube.com/watch?v=6bFTNnGiLzA
+C3 025  Actualizar presupuestos de construcción. https://www.youtube.com/watch?v=6bFTNnGiLzA
 
-26- Importar presupuesto construcción con la Plantilla 1000. https://www.youtube.com/watch?v=4kfvLX1o188
+C3 026  Importar presupuesto construcción con la Plantilla 1000. https://www.youtube.com/watch?v=4kfvLX1o188
 
-27- Asignar conceptos a presupuesto de obras desde base de datos. https://www.youtube.com/watch?v=cZPGFCXn7fo&t=1s
+C3 027  Asignar conceptos a presupuesto de obras desde base de datos. https://www.youtube.com/watch?v=cZPGFCXn7fo&t=1s
 
-28- Incidencias en la importación de presupuestos de construcción. https://www.youtube.com/watch?v=lFHjisvrGIM
+C3 028  Incidencias en la importación de presupuestos de construcción. https://www.youtube.com/watch?v=lFHjisvrGIM
 
-29- Rectificación de productos en importación de presupuesto. https://www.youtube.com/watch?v=RbkU450_4Bk
+C3 029  Rectificación de productos en importación de presupuesto. https://www.youtube.com/watch?v=RbkU450_4Bk
 
-30- Importar presupuestos desde la plantilla 2000. https://www.youtube.com/watch?v=2otCz1TZEPY&t=1
+C3 030 Importar presupuestos desde la plantilla 2000. https://www.youtube.com/watch?v=2otCz1TZEPY&t=1
 
-31- Flujo de caja a nivel de presupuesto de construcción en un proyecto. https://www.youtube.com/watch?v=eRbXudVPzpU
+C3 032 Exportar desde Revit a Microsoft Excel para usarlo en Odoo BIM 16 el listado de materiales. https://www.youtube.com/watch?v=7dbUp5n0gOw&t
 
-32- Exportar desde Revit a Microsoft Excel para usarlo en Odoo BIM 16 el listado de materiales. https://www.youtube.com/watch?v=7dbUp5n0gOw&t
+C3 033 Base de precios unitarios Odoo BIM vs Revit. https://www.youtube.com/watch?v=jd3UR0bqsUQ
 
-33- Base de precios unitarios Odoo BIM vs Revit. https://www.youtube.com/watch?v=jd3UR0bqsUQ
+C3 034
 
-34-
+C3 035 Actualizar presupuesto en Odoo ERP BIM desde Revit. https://www.youtube.com/watch?v=S6epJTbLdek
 
-35- Actualizar presupuesto en Odoo ERP BIM desde Revit. https://www.youtube.com/watch?v=S6epJTbLdek
+C3 036 Actualizar presupuesto Odoo BIM desde Revit utilizando el formulario. https://www.youtube.com/watch?v=xLz7JN9JfFE
 
-36- Actualizar presupuesto Odoo BIM desde Revit utilizando el formulario. https://www.youtube.com/watch?v=xLz7JN9JfFE
+C3 037 Fichero de Lista de cantidades desde Revit a Odoo Bim 2.0. https://www.youtube.com/watch?v=1F1rYgWHSig
 
-37- Fichero de Lista de cantidades desde Revit a Odoo Bim 2.0. https://www.youtube.com/watch?v=1F1rYgWHSig
+C3 038 Importar Presupuestos desde lista de materiales BOQ Revit a Odoo. https://www.youtube.com/watch?v=_5J8XEEC81k
 
-38- Importar Presupuestos desde lista de materiales BOQ Revit a Odoo. https://www.youtube.com/watch?v=_5J8XEEC81k
+C3 039 Presupuesto BIM a partir de presupuesto de venta Odoo ERP. Integración con Ventas. https://www.youtube.com/watch?v=IzbiuI2GC0Q&t=1s
 
-39- Presupuesto BIM a partir de presupuesto de venta Odoo ERP. Integración con Ventas. https://www.youtube.com/watch?v=IzbiuI2GC0Q&t=1s
+C3 040  Plantilla de presupuestos por precios unitarios APUs en Odoo ERP BIM 2.0. https://www.youtube.com/watch?v=D_pMJLyYttc
 
-40- Plantilla de presupuestos por precios unitarios APUs en Odoo ERP BIM 2.0. https://www.youtube.com/watch?v=D_pMJLyYttc
+C3 041  Creando un presupuesto desde una plantilla basada en APUs en Odoo bim 2.0. https://www.youtube.com/watch?v=_ULPSRmYtvM&t=1s
 
-41- Creando un presupuesto desde una plantilla basada en APUs en Odoo bim 2.0. https://www.youtube.com/watch?v=_ULPSRmYtvM&t=1s
+C3 042  Presupuesto BIM a partir de ordenes de venta Odoo ERP sin plantillas. https://www.youtube.com/watch?v=o1mKa6S35Oc
 
-42- Presupuesto BIM a partir de ordenes de venta Odoo ERP sin plantillas. https://www.youtube.com/watch?v=o1mKa6S35Oc
+C3 043  
 
-43- 
+C3 044  Odoo bim histórico de presupuestos. https://www.youtube.com/watch?v=wDakjp3OhXk&t=1s
 
-44- Odoo bim histórico de presupuestos. https://www.youtube.com/watch?v=wDakjp3OhXk&t=1s
+C3 045  Trabajar los presupuestos con precios unitarios. https://www.youtube.com/watch?v=T9Uk33WBwRU&t=1s
 
-45- Trabajar los presupuestos con precios unitarios. https://www.youtube.com/watch?v=T9Uk33WBwRU&t=1s
+C3 046  Tips Para navegar en la vista tree del árbol del presupuesto odoo bim. https://www.youtube.com/watch?v=VmXrlhApfrA
 
-46- Tips Para navegar en la vista tree del árbol del presupuesto odoo bim. https://www.youtube.com/watch?v=VmXrlhApfrA
+C3 047  Presupuesto preliminar en el crm configuración. Odoo BIM. https://www.youtube.com/watch?v=wG_q9JLRQrU
 
-47- Presupuesto preliminar en el crm configuración. Odoo BIM. https://www.youtube.com/watch?v=wG_q9JLRQrU
+C3 048  Crear presupuesto preliminar de construcción en odoo bim. https://www.youtube.com/watch?v=gwqeermnQ-A
 
-48- Crear presupuesto preliminar de construcción en odoo bim. https://www.youtube.com/watch?v=gwqeermnQ-A
+C3 049  Presupuesto preliminar ventas detallado Odoo BIM. https://www.youtube.com/watch?v=aA42xt0q-PQ
 
-49- Presupuesto preliminar ventas detallado Odoo BIM. https://www.youtube.com/watch?v=aA42xt0q-PQ
-
-50- Base de datos de precios unitarios dentro de BIM 2 0 Odoo 16. https://www.youtube.com/watch?v=FRMXaIRY0R4
+C3 050 Base de datos de precios unitarios dentro de BIM 2 0 Odoo 16. https://www.youtube.com/watch?v=FRMXaIRY0R4
 
 C3 051 - Actualización de precios Unitarios     https://youtu.be/SBtYXoT1Fnw
 
@@ -267,9 +265,39 @@ C7 107 Informe comparativo a nivel de presupuesto  https://youtu.be/EZEqrng3OCc
 
 C7 108 Análisis de costes a nivel de obras  https://youtu.be/Y7Rb5D4cljk
 
+C8 031 - Flujo de caja a nivel de presupuesto. https://www.youtube.com/watch?v=eRbXudVPzpU
 
+C8 109 Obras por departamentos  https://youtu.be/OjOHFTHDNyA
 
+C8 110 Prioridad en las obras  https://youtu.be/602gbdGtD2g
 
+C8 111 Documentación de obras  https://youtu.be/7FGr1_Ilufs
+
+C8 112 Cuadros de Mando dentro del presupuesto, método del valor ganado  https://youtu.be/ex65FDplwVo
+
+C8 113  Listas de chequeo  https://youtu.be/7de6Rtom71Y
+
+C8 114 Gestión de tareas dentro de una obra  https://youtu.be/sb3zOu2Qd6M
+
+C8 115 Gestión de tickets dentro de una obra  https://youtu.be/zFmcC2cuJ7s
+
+C8 116 Plan de calidad  https://youtu.be/DRzTooGKCJs
+
+C9 117 Formulas  https://youtu.be/v8ZzQVHJVbo
+
+C9 118 Solicitud de materiales  https://youtu.be/cdhHYN8gpho
+
+C9 119 Limite por cantidad y coste en las solicitudes de compra  https://youtu.be/J0q06gp3BrE
+
+C9 120 Solicitud de materiales a nivel de espacios
+
+C9 121 Solicitud de servicios
+
+C9 122 Bodega móvil para repartir materiales en obras
+
+C9 123 Renta de equipos
+
+C9 124 Registro de combustibles
 
 
 
