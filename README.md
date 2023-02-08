@@ -161,6 +161,116 @@ C3 051 - Actualización de precios Unitarios     https://youtu.be/SBtYXoT1Fnw
 
 C3 052 - Índice unificado y sus utilidades   https://youtu.be/MDkF7yyNyc0
 
+C3 053 - Grupos y subgrupos de precios unitarios  https://youtu.be/nb2rX_G2XGQ
+
+C3 054 - Parámetros en los precios unitarios   https://youtu.be/UrvLQyxVRHw
+
+C3 055 - Actualizar precios según tasa de cambios de monedas con respecto al USD   https://youtu.be/amNGp39PI4U
+
+C3 056 - Unidades de medidas en el presupuesto  https://youtu.be/XISVucacjWk
+
+C3 057 - Importar partida en formato BC3 desde capitulo o partida  https://youtu.be/LXI9Wlin_7Q
+
+C3 058 - Comparar presupuestos  https://youtu.be/i8B74-bzFhw
+
+C3 059 - Precios acordados  https://youtu.be/VAkcDLZlyus
+
+C3 060 - Haberes y descuentos  https://youtu.be/FVDmCkHZxtk
+
+C3 061 - Plantilla de haberes y descuentos  https://youtu.be/GY2qwsR4724
+
+C3 062 -  Presupuestos por Índices técnicos económicos  https://youtu.be/rBx8TrTj33M
+
+C3 063 - Herramientas (Convertir partidas a cero)  https://youtu.be/Ot3dSQMGtzw
+
+C3 064 - Tipo de precios para trabajar en BIM  https://youtu.be/BseMZ5dc0fY
+
+C3 065 - Informes de presupuestos  https://youtu.be/Sybu6-FhvE0
+
+C3 066 Copiar mediciones  https://youtu.be/Gar1HVUf_18
+
+C3 067 Edición masiva de estados y tipos de presupuestos  https://youtu.be/SgYcff9WZjI
+
+C3 068 Reportes de recursos  https://youtu.be/8YkZP5L5IxM
+
+C4 085  Programación cálculo dentro de BIM  https://youtu.be/ZYUrRE7Dfp0
+
+C4 086 Exportar programación a Project  https://youtu.be/0dsRf-4Oz9w
+
+C4 087 Importar desde Project, Planificación  https://youtu.be/5bXFvnJ2GY0
+
+C4 088  Importar presupuestos desde Project incluyendo avances de obras y tareas  https://youtu.be/9Ht8pYEsqe4
+
+C4 089 Programación mediante fichero csv integración con Excel  https://youtu.be/QTg92M9MP_8
+
+C4 090 Balance de recursos  https://youtu.be/9_MC7UW-aAc
+
+C5 069 Diagrama de certificaciones  https://youtu.be/yZmSh9JNyMc
+
+C5 070 Etapas  https://youtu.be/3_Z4Ntn9vSk
+
+C5 071 Permisos para certificación por estado del presupuesto  
+
+C5 072 Retenciones por garantias 
+
+C5 073  Coeficiente de certificación y cantidad a facturar
+
+C5 075 Métodos de Certificaciones  https://youtu.be/28UQ0-bpghg
+
+C5 076 Certificaciones masivas desde partidas  https://youtu.be/tMs8YZzCli4
+
+C5 077 Certificación masiva por capítulos  https://youtu.be/y2aHJsgJWgo
+
+C5 078 Limites de certificación  https://youtu.be/L8rXSQDsymw
+
+C5 079 Certificación por consumo   https://youtu.be/wtzdNpw43U8
+
+C5 080  Informes de certificación   https://youtu.be/9IDgZgTEifY
+
+C6 081 Crear estados de pagos  https://youtu.be/0hVg2hpyAi8
+
+C6 082 estado de pago desde certificación masiva (resumen de certificaciones sin facturar)  https://youtu.be/ulNlLgKWZmY
+
+C6 083 Crear Facturas de venta  https://youtu.be/yuRDXvgsglw
+
+C6 084  Como gestionar estados de pagos cuando existan facturas canceladas o rectificativas  https://youtu.be/5ZO_Gsmj_48
+
+C7 091 - Costes reales Introducción  https://youtu.be/egsVL1Rx5vs
+
+C7 092 - Configuración de registro de costos  https://youtu.be/b3QUvJIGmvk
+
+C7 093 - Registro de partes de obras   https://youtu.be/6t2x--4F6_g
+
+C7 094 - Registro de coste de salida de materiales desde la partida   https://youtu.be/x_lNrT7qKhk
+
+C7 095 - Registro de coste de materiales a nivel de obras  https://youtu.be/jI9-hm1tI_M
+
+C7 096 Registro de asistencias a nivel de obras, Horas extras  https://youtu.be/RLuZUAByA40
+
+C7 097 Registro de costes de asistencia desde el modulo empleados  https://youtu.be/Tk4_7o1Ar7E
+
+C7 100  Registro de costes desde factura de proveedores  https://youtu.be/w6xixS3Kon8
+
+C7 101  Registro de costes desde asiento contable  https://youtu.be/AgJ_xX9pL9I
+
+C7 102  Registro de costes desde Saldos de apertura  https://youtu.be/4ixLJO92i_Q
+
+C7 103  Registro de costes desde uso de herramientas  https://youtu.be/GuPhzhoo_rk
+
+C7 104 Costo de equipos en función de parámetros (depreciación, mantenimiento, etc.)   https://youtu.be/QlS1m3r3FSE
+
+C7 105 Validar desde estado de presupuesto-proyecto Registros de costes   https://youtu.be/JerA6UHoj0k
+
+C7 106 Informe de costos a nivel de obras  https://youtu.be/Gsc6cf0fcss
+
+C7 107 Informe comparativo a nivel de presupuesto  https://youtu.be/EZEqrng3OCc
+
+C7 108 Análisis de costes a nivel de obras  https://youtu.be/Y7Rb5D4cljk
+
+
+
+
+
 
 
 
