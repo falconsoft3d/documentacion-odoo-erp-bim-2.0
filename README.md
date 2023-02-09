@@ -121,7 +121,7 @@ C3 032 Exportar desde Revit a Microsoft Excel para usarlo en Odoo BIM 16 el list
 
 C3 033 Base de precios unitarios Odoo BIM vs Revit. https://www.youtube.com/watch?v=jd3UR0bqsUQ
 
-C3 034
+C3 034 Importar un presupuesto desde Revit   https://youtu.be/anMjkGf9CGg
 
 C3 035 Actualizar presupuesto en Odoo ERP BIM desde Revit. https://www.youtube.com/watch?v=S6epJTbLdek
 
@@ -139,7 +139,7 @@ C3 041  Creando un presupuesto desde una plantilla basada en APUs en Odoo bim 2.
 
 C3 042  Presupuesto BIM a partir de ordenes de venta Odoo ERP sin plantillas. https://www.youtube.com/watch?v=o1mKa6S35Oc
 
-C3 043  
+C3 043 Importar partidas en presupuestos basados en precios en la nube mediante drag and drophttps://youtu.be/RPmdxrirgwg
 
 C3 044  Odoo bim histórico de presupuestos. https://www.youtube.com/watch?v=wDakjp3OhXk&t=1s
 
@@ -209,9 +209,9 @@ C5 070 Etapas  https://youtu.be/3_Z4Ntn9vSk
 
 C5 071 Permisos para certificación por estado del presupuesto  
 
-C5 072 Retenciones por garantias 
+C5 072 Retenciones por garantias  https://youtu.be/iIPtMeR-IVI
 
-C5 073  Coeficiente de certificación y cantidad a facturar
+C5 073  Coeficiente de certificación y cantidad a facturar  https://youtu.be/0Oa214ea2hc
 
 C5 075 Métodos de Certificaciones  https://youtu.be/28UQ0-bpghg
 
@@ -289,20 +289,14 @@ C9 118 Solicitud de materiales  https://youtu.be/cdhHYN8gpho
 
 C9 119 Limite por cantidad y coste en las solicitudes de compra  https://youtu.be/J0q06gp3BrE
 
-C9 120 Solicitud de materiales a nivel de espacios   
+C9 120 Solicitud de materiales a nivel de espacios   https://youtu.be/DohwWP1WzpU
 
-C9 121 Solicitud de servicios  
+C9 121 Solicitud de servicios  https://youtu.be/_8lseRRN-Pg
 
-C9 122 Bodega móvil para repartir materiales en obras
+C9 122 Bodega móvil para repartir materiales en obras  https://youtu.be/hrRVg5uIeAo
 
-C9 123 Renta de equipos
+C9 123 Renta de equipos  https://youtu.be/tFZH5ezz9To
 
 C9 124 Registro de combustibles  https://youtu.be/k3XMxuJFrbQ
-
-
-
-
-
-
 
 
