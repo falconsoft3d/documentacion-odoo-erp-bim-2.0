@@ -49,7 +49,7 @@ Manual: https://github.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/blob/16.0
 Marlon Falcón Hernández | España | Valencia
 * ERP, CRM y Software: https://www.marlonfalcon.com
 » WhatsApp: +34 662 47 0645
-» Email: mfalconsoft@gmail.com
+» Email: contacto@bim20.com
 » Github: https://github.com/falconsoft3d
 » linkedin: https://linkedin.com/in/marlon-falcón-3a2aa9a4
 ```
