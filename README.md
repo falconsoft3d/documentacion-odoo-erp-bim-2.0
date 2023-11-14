@@ -2,9 +2,6 @@
 Módulo de Construcción para Odoo 16 dedicado para empresas de construcción o proyectos.
 ![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
 
-![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/documentacion_bim_2.png "BIM 20")
-
-
 # Funciones actuales.
 -	Presupuestos de Obra
 -	Presupuestos orientativos
@@ -302,5 +299,7 @@ C9 122 Bodega móvil para repartir materiales en obras  https://youtu.be/hrRVg5u
 C9 123 Renta de equipos  https://youtu.be/tFZH5ezz9To
 
 C9 124 Registro de combustibles  https://youtu.be/k3XMxuJFrbQ
+
+![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/documentacion_bim_2.png "BIM 20")
 
 
