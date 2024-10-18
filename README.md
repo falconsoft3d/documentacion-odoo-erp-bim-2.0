@@ -56,7 +56,7 @@ Marlon Falcón Hernández | España | Valencia
 
 # Videos de BIM 2.0 para Odoo ERP 16.
 
-C0 000 - Teaoría de precios unitarios: https://www.youtube.com/watch?v=j4qrCGZe7rg
+C0 000 - Teoría de precios unitarios: https://www.youtube.com/watch?v=j4qrCGZe7rg
 
 C1 001  Introducción a BIM  Odoo 16:  https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
 
